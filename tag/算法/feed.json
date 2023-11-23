@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Hexo • All posts by \"算法\" tag",
-    "description": "",
-    "home_page_url": "http://example.com",
+    "title": "xdu共享资源库 • All posts by \"算法\" tag",
+    "description": "本站所有资料仅供交流学习使用，不作商业用途",
+    "home_page_url": "http://qiji5211.com",
     "items": [
         {
-            "id": "http://example.com/2023/11/23/kaoshi/%E7%AE%97%E6%B3%95%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/",
-            "url": "http://example.com/2023/11/23/kaoshi/%E7%AE%97%E6%B3%95%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/",
+            "id": "http://qiji5211.com/2023/11/23/kaoshi/%E7%AE%97%E6%B3%95%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/",
+            "url": "http://qiji5211.com/2023/11/23/kaoshi/%E7%AE%97%E6%B3%95%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/",
             "title": "算法复习资料",
             "date_published": "2023-11-23T09:30:58.000Z",
             "content_html": "<p>收集自 ——【鸽子屋二号】</p>\n<p>文件名：算法 Algorithm_A_最终版 - 张立勇.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9mcjd1azI=\">https://easylink.cc/fr7uk2</span></p>\n<p>文件名：2014_Algorithm_A.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy82NTNsejQ=\">https://easylink.cc/653lz4</span></p>\n<p>文件名：算法分析总复习.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy94OW0weGI=\">https://easylink.cc/x9m0xb</span></p>\n<p>文件名：算法复习 (1).docx<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9wOGN0dXo=\">https://easylink.cc/p8ctuz</span></p>\n<p>文件名：算法复习.docx<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9ibnB6NG4=\">https://easylink.cc/bnpz4n</span></p>\n<p>文件名：算法 - 英文版_单面印.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9wdWlsZmc=\">https://easylink.cc/puilfg</span></p>\n<p>简要介绍：收录了算法复习资料，以 PDF 形式上传，使用愉快～<br>\n 衷心感谢每一次的慷慨分享！</p>\n",

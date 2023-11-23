@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Hexo",
-    "description": "",
-    "home_page_url": "http://example.com",
+    "title": "xdu共享资源库",
+    "description": "本站所有资料仅供交流学习使用，不作商业用途",
+    "home_page_url": "http://qiji5211.com",
     "items": [
         {
-            "id": "http://example.com/2023/11/23/kaoshi/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/",
-            "url": "http://example.com/2023/11/23/kaoshi/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/",
+            "id": "http://qiji5211.com/2023/11/23/kaoshi/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/",
+            "url": "http://qiji5211.com/2023/11/23/kaoshi/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/",
             "title": "微机原理考试题目",
             "date_published": "2023-11-23T09:30:58.000Z",
             "content_html": "<p>收集自 ——【鸽子屋二号】</p>\n<p>文件名：微机原理补考.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9ycGlnaW0=\">https://easylink.cc/rpigim</span></p>\n<p>文件名：微机原理补考参考答案.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy84bW0waHA=\">https://easylink.cc/8mm0hp</span></p>\n<p>文件名：微机原理正考.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9wbDE4azg=\">https://easylink.cc/pl18k8</span></p>\n<p>文件名：微机原理正考参考答案.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy8zbHIwejE=\">https://easylink.cc/3lr0z1</span></p>\n<p>衷心感谢每一次的慷慨分享！使用愉快～</p>\n",
@@ -15,8 +15,8 @@
             ]
         },
         {
-            "id": "http://example.com/2023/11/23/shuji/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%9B%B8%E5%85%B3%E4%B9%A6%E7%B1%8D/",
-            "url": "http://example.com/2023/11/23/shuji/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%9B%B8%E5%85%B3%E4%B9%A6%E7%B1%8D/",
+            "id": "http://qiji5211.com/2023/11/23/shuji/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%9B%B8%E5%85%B3%E4%B9%A6%E7%B1%8D/",
+            "url": "http://qiji5211.com/2023/11/23/shuji/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%9B%B8%E5%85%B3%E4%B9%A6%E7%B1%8D/",
             "title": "算法复习资料",
             "date_published": "2023-11-23T09:30:58.000Z",
             "content_html": "<p>收集自 ——【西电科大书籍资料群】</p>\n<p>文件名：微积分快餐 (林群).pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9oa25xMmI=\">https://easylink.cc/hknq2b</span></p>\n<p>文件名：现代数学手册：经典数学卷.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy90MDk3dTg=\">https://easylink.cc/t097u8</span></p>\n<p>文件名：现代数学手册：随机数学卷.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9rNG4zaDY=\">https://easylink.cc/k4n3h6</span></p>\n<p>文件名：微积分 上、下册（迈克尔・斯皮瓦） .pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy8zd3duOGs=\">https://easylink.cc/3wwn8k</span></p>\n<p>文件名：两相微积分学.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9vYzZuZHo=\">https://easylink.cc/oc6ndz</span></p>\n<p>文件名：微积分之屠龙宝刀 .pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9yZWE2cm4=\">https://easylink.cc/rea6rn</span></p>\n<p>文件名：一元函数微积分典型题型及解题技巧 - 许军编.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9jYTF4MDc=\">https://easylink.cc/ca1x07</span></p>\n<p>文件名：傅里叶分析及其应用 (潘文杰) .pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9oODR0Z2M=\">https://easylink.cc/h84tgc</span></p>\n<p>文件名：傅里叶变换及其应用 [美] 罗纳德.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9zNmF2ZXU=\">https://easylink.cc/s6aveu</span></p>\n<p>文件名：微积分 [美] M.R. 施皮格尔.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy90bW1hczY=\">https://easylink.cc/tmmas6</span></p>\n<p>文件名：算子逼近论 (陈文忠).pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9ucjZoczI=\">https://easylink.cc/nr6hs2</span></p>\n<p>文件名：δ- 函数及其应用 (赵为礼).pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9vcmVsNWU=\">https://easylink.cc/orel5e</span></p>\n<p>文件名：特殊函数概论，. 王竹溪，. 郭敦仁.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9pZWt6MWE=\">https://easylink.cc/iekz1a</span></p>\n<p>文件名：无穷分析引论中文版 (欧拉).pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9kaHdlamU=\">https://easylink.cc/dhweje</span></p>\n<p>文件名：推广欧拉常数.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9sMWZ3Zmg=\">https://easylink.cc/l1fwfh</span></p>\n<p>文件名：数学百科全书  卷 1 .pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9hbTZueTk=\">https://easylink.cc/am6ny9</span></p>\n<p>文件名：数学百科全书  卷 2 .pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9sNXN3ZWs=\">https://easylink.cc/l5swek</span></p>\n<p>文件名：数学百科全书  卷 4 .pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9qczdtaXU=\">https://easylink.cc/js7miu</span></p>\n<p>文件名：现代应用数学手册：分析与方程卷.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9yajN4M20=\">https://easylink.cc/rj3x3m</span></p>\n<p>文件名：数学百科全书  卷 3 .pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9wdWcxOTI=\">https://easylink.cc/pug192</span></p>\n<p>文件名：现代应用数学手册：离散数学卷.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy83bnJpY2Q=\">https://easylink.cc/7nricd</span></p>\n<p>文件名：现代应用数学手册：概率统计与随机过程卷.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9wenFxZzE=\">https://easylink.cc/pzqqg1</span></p>\n<p>文件名：实用高等数学 (勾丽杰).pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9rbXA4ZzU=\">https://easylink.cc/kmp8g5</span></p>\n<p>文件名：现代应用数学手册：现代应用分析卷.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy8zcjYzdGg=\">https://easylink.cc/3r63th</span></p>\n<p>文件名：那些年你没学明白的数学：攻读研究生必知必会的数学.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9saW5kYzg=\">https://easylink.cc/lindc8</span></p>\n<p>文件名：现代应用数学手册：计算与数值分析卷.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy8yc3RqYTk=\">https://easylink.cc/2stja9</span></p>\n<p>文件名：现代应用数学手册：计算方法卷.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9tYmYwenI=\">https://easylink.cc/mbf0zr</span></p>\n<p>文件名：现代应用数学手册：运筹学与最优化理论卷.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9leW14cHo=\">https://easylink.cc/eymxpz</span></p>\n<p>文件名：高等数学应用 205 例.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy82YWxlc2U=\">https://easylink.cc/6alese</span></p>\n<p>文件名：高等数学讲义 (樊映川) .pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9qN3o3dWU=\">https://easylink.cc/j7z7ue</span></p>\n<p>文件名：高等数学 (同济大学) .pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy90ZG81YmY=\">https://easylink.cc/tdo5bf</span></p>\n<p>文件名：微积分之屠龙宝刀  (1).pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9zZTg2NHE=\">https://easylink.cc/se864q</span></p>\n<p>简要介绍：收录了数学类工具书，以 PDF 形式上传，使用愉快～</p>\n<p>衷心感谢每一次的慷慨分享！</p>\n",
@@ -25,8 +25,8 @@
             ]
         },
         {
-            "id": "http://example.com/2023/11/23/kaoshi/%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%BA%94%E7%94%A8/",
-            "url": "http://example.com/2023/11/23/kaoshi/%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%BA%94%E7%94%A8/",
+            "id": "http://qiji5211.com/2023/11/23/kaoshi/%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%BA%94%E7%94%A8/",
+            "url": "http://qiji5211.com/2023/11/23/kaoshi/%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%BA%94%E7%94%A8/",
             "title": "微处理器系统与应用",
             "date_published": "2023-11-23T09:30:58.000Z",
             "content_html": "<p>收集自 ——【鸽子屋二号】</p>\n<p>微处理器系统与应用 - 1 - 系统概述 (打印版）.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9sNWgwODQ=\">https://easylink.cc/l5h084</span></p>\n<p>文件名：微处理器系统与应用 - 2-ARM 系统（打印版）.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy92NDl6eGI=\">https://easylink.cc/v49zxb</span></p>\n<p>文件名：微处理器系统与应用 - 3 - 存储系统访问（打印版）.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9wa2U4ZA==\">https://easylink.cc/pke8d</span></p>\n<p>文件名：微处理器系统与应用 - 4 - 算术逻辑运算（打印版）.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy94MTJ3anY=\">https://easylink.cc/x12wjv</span></p>\n<p>文件名：微处理器原理与应用 - 5 - 转移控制 (打印版).pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy90a3k2OTI=\">https://easylink.cc/tky692</span></p>\n<p>文件名：微处理器系统与应用 - 6 - 子程序 (打印版).pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy93MnVrb24=\">https://easylink.cc/w2ukon</span></p>\n<p>文件名：微处理器系统与应用 - 7-ARM 的 C 语言程序设计（打印版）.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy93Z2t2YnI=\">https://easylink.cc/wgkvbr</span></p>\n<p>文件名：微处理器系统与应用 - 9a - 输入输出_GPIO.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy84amVlZHQ=\">https://easylink.cc/8jeedt</span></p>\n<p>文件名：微处理器系统与应用 - 9b - 输入输出_UART.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9nOWxxdw==\">https://easylink.cc/g9lqw</span></p>\n<p>简要介绍：收录了微处理器原理与应用 1-5 的题目，以 PDF 形式上传，使用愉快～<br>\n 衷心感谢每一次的慷慨分享！</p>\n",
@@ -35,8 +35,8 @@
             ]
         },
         {
-            "id": "http://example.com/2023/11/23/kaoshi/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/",
-            "url": "http://example.com/2023/11/23/kaoshi/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/",
+            "id": "http://qiji5211.com/2023/11/23/kaoshi/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/",
+            "url": "http://qiji5211.com/2023/11/23/kaoshi/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/",
             "title": "毛概题库",
             "date_published": "2023-11-23T09:30:58.000Z",
             "content_html": "<p>收集自 ——【鸽子屋二号】</p>\n<p>文件名：毛概题库密码是 123456.7z<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9paHpkM2Y=\">https://easylink.cc/ihzd3f</span></p>\n<p>衷心感谢每一次的慷慨分享！使用愉快～</p>\n",
@@ -45,8 +45,8 @@
             ]
         },
         {
-            "id": "http://example.com/2023/11/23/kaoshi/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%A2%98%E7%9B%AE%E5%90%88%E9%9B%86/",
-            "url": "http://example.com/2023/11/23/kaoshi/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%A2%98%E7%9B%AE%E5%90%88%E9%9B%86/",
+            "id": "http://qiji5211.com/2023/11/23/kaoshi/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%A2%98%E7%9B%AE%E5%90%88%E9%9B%86/",
+            "url": "http://qiji5211.com/2023/11/23/kaoshi/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%A2%98%E7%9B%AE%E5%90%88%E9%9B%86/",
             "title": "数据结构题目合集",
             "date_published": "2023-11-23T09:30:58.000Z",
             "content_html": "<p>收集自 ——【鸽子屋二号】</p>\n<p>文件名：考试题目<br>\n云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9tbTFuNHQ=\">https://easylink.cc/mm1n4t</span></p>\n<p>文件名：数据结构上机题库.zip<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9oNTR2M2U=\">https://easylink.cc/h54v3e</span></p>\n<p>简要介绍：收录了 OJ2-397 的题目，以 ZIP 形式上传，使用愉快～<br>\n 衷心感谢每一次的慷慨分享！</p>\n",
@@ -55,8 +55,8 @@
             ]
         },
         {
-            "id": "http://example.com/2023/11/23/kaoshi/%E7%AE%97%E6%B3%95%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/",
-            "url": "http://example.com/2023/11/23/kaoshi/%E7%AE%97%E6%B3%95%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/",
+            "id": "http://qiji5211.com/2023/11/23/kaoshi/%E7%AE%97%E6%B3%95%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/",
+            "url": "http://qiji5211.com/2023/11/23/kaoshi/%E7%AE%97%E6%B3%95%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/",
             "title": "算法复习资料",
             "date_published": "2023-11-23T09:30:58.000Z",
             "content_html": "<p>收集自 ——【鸽子屋二号】</p>\n<p>文件名：算法 Algorithm_A_最终版 - 张立勇.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9mcjd1azI=\">https://easylink.cc/fr7uk2</span></p>\n<p>文件名：2014_Algorithm_A.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy82NTNsejQ=\">https://easylink.cc/653lz4</span></p>\n<p>文件名：算法分析总复习.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy94OW0weGI=\">https://easylink.cc/x9m0xb</span></p>\n<p>文件名：算法复习 (1).docx<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9wOGN0dXo=\">https://easylink.cc/p8ctuz</span></p>\n<p>文件名：算法复习.docx<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9ibnB6NG4=\">https://easylink.cc/bnpz4n</span></p>\n<p>文件名：算法 - 英文版_单面印.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9wdWlsZmc=\">https://easylink.cc/puilfg</span></p>\n<p>简要介绍：收录了算法复习资料，以 PDF 形式上传，使用愉快～<br>\n 衷心感谢每一次的慷慨分享！</p>\n",
@@ -65,8 +65,8 @@
             ]
         },
         {
-            "id": "http://example.com/2023/11/23/kaoshi/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/",
-            "url": "http://example.com/2023/11/23/kaoshi/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/",
+            "id": "http://qiji5211.com/2023/11/23/kaoshi/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/",
+            "url": "http://qiji5211.com/2023/11/23/kaoshi/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/",
             "title": "面向对象程序设计考试题目",
             "date_published": "2023-11-23T09:30:58.000Z",
             "content_html": "<p>收集自 ——【鸽子屋二号】</p>\n<p>文件名：《面向对象程序设计》习题答案 2008-c  部分.ppt<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy84dGMxMWs=\">https://easylink.cc/8tc11k</span></p>\n<p>文件名：《面向对象程序设计 C–》期末试卷及标准答案 (A).doc<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy85MG03MWE=\">https://easylink.cc/90m71a</span></p>\n<p>文件名：《面向对象程序设计 C–》期末试卷及标准答案集总解析.doc<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9sOXQzZHc=\">https://easylink.cc/l9t3dw</span></p>\n<p>文件名：c++.docx<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9mYW5iZnk=\">https://easylink.cc/fanbfy</span></p>\n<p>简要介绍：收录了面向对象程序设计部分题目，使用愉快～<br>\n 衷心感谢每一次的慷慨分享！</p>\n",
@@ -75,8 +75,8 @@
             ]
         },
         {
-            "id": "http://example.com/2023/11/23/kaoshi/%E9%A9%AC%E5%8E%9F%E8%B5%84%E6%96%99&%E8%AF%95%E9%A2%98/",
-            "url": "http://example.com/2023/11/23/kaoshi/%E9%A9%AC%E5%8E%9F%E8%B5%84%E6%96%99&%E8%AF%95%E9%A2%98/",
+            "id": "http://qiji5211.com/2023/11/23/kaoshi/%E9%A9%AC%E5%8E%9F%E8%B5%84%E6%96%99&%E8%AF%95%E9%A2%98/",
+            "url": "http://qiji5211.com/2023/11/23/kaoshi/%E9%A9%AC%E5%8E%9F%E8%B5%84%E6%96%99&%E8%AF%95%E9%A2%98/",
             "title": "马原资料&试题",
             "date_published": "2023-11-23T09:30:58.000Z",
             "content_html": "<h2 id=\"数学规划模型\"><a class=\"markdownIt-Anchor\" href=\"#数学规划模型\">#</a> 数学规划模型</h2>\n<ol>\n<li>程序文件 4-1 加工奶制品生产计划 (prog0401a.lg4)</li>\n<li>程序文件 4-2 奶制品生产销售计划 (prog0401b.lg4)</li>\n<li>程序文件 4-3 自来水输送 (prog0402a.lg4)</li>\n<li>程序文件 4-4 货机装运 (prog0402b.lg4)</li>\n<li>程序文件 4-5 汽车生产 (prog0403a.lg4)<br>\n 程序文件 4-6 汽车生产（加产量限制）0-1 规划 (prog0403b.lg4)<br>\n 程序文件 4-7 汽车生产（加产量限制）非线性规划 (prog0403c.lg4</li>\n<li>程序文件 4-8 原油采购与加工第 1 种解法 (prog0403d.lg4)<br>\n 程序文件 4-9 原油采购与加工第 2 种解法 (prog0403e.lg4)<br>\n 程序文件 4-10 原油采购与加工第 3 种解法 (prog0403f.lg4)</li>\n<li>程序文件 4-11 接力队选拔 (prog0404a.lg4)</li>\n<li>程序文件 4-12 选课策略 (prog0404b.lg4)<br>\n 程序文件 4-13 两目标的选课策略 (prog0404c.lg4)</li>\n<li>程序文件 4-14 饮料厂生产计划 (prog0405a.lg4)<br>\n 程序文件 4-15 饮料厂生产与检修计划 (prog0405b.lg4)<br>\n 程序文件 4-16 饮料厂生产批量计划 (prog0405c.lg4)</li>\n<li>程序文件 4-17 钢管下料问题 1 (prog0406a.lg4)<br>\n 程序文件 4-18 钢管下料问题 2 (prog0406b.lg4)</li>\n<li>程序文件 4-19 易拉罐下料 (prog0406c.lg4)</li>\n<li>程序文件 4-20 广告投入 (prog0407a.lg4)</li>\n<li>程序文件 4-21 升级调薪 (prog0407b.lg4)</li>\n<li>程序文件 4-22 投资组合股票收益 (prog0408a.lg4)</li>\n<li>程序文件 4-23 投资收益和风险 (prog0408b.1g4)</li>\n</ol>\n<h2 id=\"微分方程模型\"><a class=\"markdownIt-Anchor\" href=\"#微分方程模型\">#</a> 微分方程模型</h2>\n<ol start=\"16\">\n<li>5.1 人口增长<br>\n<span class=\"exturl\" data-url=\"aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzU5MTc5NzUyL2FydGljbGUvZGV0YWlscy8xMjI3Mjg3MTQ=\"> (14 条消息) 数学建模姜启源 5.1 人口增长 —— 学习记录_数学建模人口增长指数_亭午的博客 - CSDN 博客</span></li>\n</ol>\n<h2 id=\"习题\"><a class=\"markdownIt-Anchor\" href=\"#习题\">#</a> 习题</h2>\n<ol start=\"17\">\n<li>1-1 商人们怎样安全渡河</li>\n<li>3-2 生猪的出售时机</li>\n<li>3.7 冰山运输</li>\n</ol>\n<h2 id=\"统计模型\"><a class=\"markdownIt-Anchor\" href=\"#统计模型\">#</a> 统计模型</h2>\n<ol start=\"18\">\n<li>程序文件 4-24 投资收益和风险的有效前沿 (prog0408c.m)</li>\n<li>程序文件 9-1 胎儿健康的参数估计与假设检验 (prog0901a.m)<br>\n 程序文件 9-2 胎儿健康（吸烟孕妇）的一元回归 (prog0901b.m)<br>\n 程序文件 9-3 胎儿健康（不吸烟孕妇）的一元回归 (prog0901c.m)<br>\n 程序文件 9-4 胎儿健康的多元回归 (prog0901d.m)<br>\n 程序文件 9-5 胎儿健康的逐步回归 (prog0901e.m)</li>\n<li>程序文件 9-6 软件开发人员薪金基本模型 (prog0902a.m)<br>\n 程序文件 9-7 软件开发人员薪金增加交互项 (prog0902b.m)<br>\n 程序文件 9-8 软件开发人员薪金去除异常点 (prog0s902c.m)</li>\n<li>程序文件 9-9 酶促反应线性化模型和非线性模型 (prog0903a.m)<br>\n 程序文件 9-10 酶促反应非线性模型子程序 (prog0903a1.m)<br>\n 程序文件 9-11 酶促反应混合模型 (prog0903b.m)<br>\n 程序文件 9-12 酶促反应混合模型子程序 1 (prog0903b1.m)<br>\n 程序文件 9-13 酶促反应混合模型子程序 2 (prog0903b2.m)</li>\n<li>程序文件 9-14 投资额与生产总值和物价指数 (prog0904.m)</li>\n<li>程序文件 9-15 冠心病与年龄 (prog0905.m)</li>\n<li>程序文件 9-16 蠓虫分类判别 (prog0906.m)</li>\n<li>程序文件 9-17 学生考试成绩综合评价 (prog0907.m)</li>\n</ol>\n<h2 id=\"司守奎-数学建模算法与应用-第二版\"><a class=\"markdownIt-Anchor\" href=\"#司守奎-数学建模算法与应用-第二版\">#</a> 司守奎 《数学建模算法与应用》 第二版</h2>\n<h4 id=\"有些没问题分析和结果分析\"><a class=\"markdownIt-Anchor\" href=\"#有些没问题分析和结果分析\">#</a> 有些没问题分析和结果分析</h4>\n<ol start=\"28\">\n<li>P211 9.3 乳腺癌的诊断 —— 支持向量机</li>\n<li>P226 10.1.3 聚类分析案例 —— 我国各地区普通高等教育发展状况分析</li>\n<li>P399 15.2 灰色预测模型 例 15.2</li>\n<li>P419 15.5.2 税收收入 AR 预测模型</li>\n<li>P422 插值与拟合 15.6.2 录像机计数器的用途</li>\n<li>P427 15.7.3 基于神经网络的年径流预报实例</li>\n<li>P72 4.9 钢管订购和运输</li>\n</ol>\n<h2 id=\"自己找的有程序\"><a class=\"markdownIt-Anchor\" href=\"#自己找的有程序\">#</a> 自己找的（有程序）</h2>\n<h2 id=\"真真得自己写程序\"><a class=\"markdownIt-Anchor\" href=\"#真真得自己写程序\">#</a> 真真得自己写程序</h2>\n<p>2.5 估计出租车总数<br>\n 2.6 评选举重冠军<br>\n 3.8 影院里的视角和仰角<br>\n 5.7 食饵与捕食者模型<br>\n 5.10 传染病模型和 SARS 的传播</p>\n<h2 id=\"不知能写否\"><a class=\"markdownIt-Anchor\" href=\"#不知能写否\">#</a> 不知能写否？</h2>\n<ol>\n<li>传染病模型（无代码）<br>\n![[百度文库文档.pdf]]</li>\n<li>蒙特卡洛（无详细的问题分析和结果分析）<span class=\"exturl\" data-url=\"aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYxNTA3MS9hcnRpY2xlL2RldGFpbHMvMTA4MzM3OTU0P29wc19yZXF1ZXN0X21pc2M9JTI1N0IlMjUyMnJlcXVlc3QlMjU1RmlkJTI1MjIlMjUzQSUyNTIyMTY4OTMzNDY0MjE2ODAwMTgyMTMyMjg5JTI1MjIlMjUyQyUyNTIyc2NtJTI1MjIlMjUzQSUyNTIyMjAxNDA3MTMuMTMwMTAyMzM0Li4lMjUyMiUyNTdEJmFtcDtyZXF1ZXN0X2lkPTE2ODkzMzQ2NDIxNjgwMDE4MjEzMjI4OSZhbXA7Yml6X2lkPTAmYW1wO3V0bV9tZWRpdW09ZGlzdHJpYnV0ZS5wY19zZWFyY2hfcmVzdWx0Lm5vbmUtdGFzay1ibG9nLTJ+YWxsfnNvYmFpZHVlbmR+ZGVmYXVsdC00LTEwODMzNzk1NC1udWxsLW51bGwuMTQyJTVFdjg4JTVFaW5zZXJ0X2Rvd24xLDIzOSU1RXYyJTVFaW5zZXJ0X2NoYXRncHQmYW1wO3V0bV90ZXJtPSVFNiU5NSVCMCVFNSVBRCVBNiVFNSVCQiVCQSVFNiVBOCVBMSVFNiVBMSU4OCVFNCVCRSU4QiZhbXA7c3BtPTEwMTguMjIyNi4zMDAxLjQxODc=\">(14 条消息) 【16】 数学建模 | 蒙特卡洛模拟方法 | 详细案例和代码解析 (清风课程，有版权问题，私聊删除)_直接模拟蒙特卡洛法_Cohen_ina 的博客 - CSDN 博客</span></li>\n</ol>\n<h2 id=\"清风还在看\"><a class=\"markdownIt-Anchor\" href=\"#清风还在看\">#</a> 清风（还在看）</h2>\n",
@@ -85,14 +85,32 @@
             ]
         },
         {
-            "id": "http://example.com/2023/11/23/kaoshi/%E8%AE%A1%E7%A7%91%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E5%BA%93%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/",
-            "url": "http://example.com/2023/11/23/kaoshi/%E8%AE%A1%E7%A7%91%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E5%BA%93%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/",
+            "id": "http://qiji5211.com/2023/11/23/kaoshi/%E8%AE%A1%E7%A7%91%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E5%BA%93%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/",
+            "url": "http://qiji5211.com/2023/11/23/kaoshi/%E8%AE%A1%E7%A7%91%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E5%BA%93%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/",
             "title": "计科数据库试题",
             "date_published": "2023-11-23T09:30:58.000Z",
             "content_html": "<p>收集自 —— 【鸽子屋二号】</p>\n<p>文件名：15：40 计科 - 2020 年 8 月数据库补考 - 王小兵 (2).pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy8zamozZTM=\">https://easylink.cc/3jj3e3</span></p>\n<p>文件名：扫描全能王 2021-12-06 14.37 (1).pdf（某一年的期末卷子）<br>\n云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy95bTd0Yno=\">https://easylink.cc/ym7tbz</span></p>\n<p>文件名：数据库试题.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9wYnZzNzE=\">https://easylink.cc/pbvs71</span></p>\n<p>简要介绍：收录了计科数据库试题，以 PDF 形式上传，使用愉快～<br>\n 衷心感谢每一次的慷慨分享 \\！</p>\n",
             "tags": [
                 "数据库"
             ]
+        },
+        {
+            "id": "http://qiji5211.com/2023/11/23/kaoshi/C%E8%AF%AD%E8%A8%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98/",
+            "url": "http://qiji5211.com/2023/11/23/kaoshi/C%E8%AF%AD%E8%A8%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98/",
+            "title": "C语言期末试题",
+            "date_published": "2023-11-23T09:30:58.000Z",
+            "content_html": "<p>文件名：C 语言期末.zip<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9vcHc3Mm8=\">https://easylink.cc/opw72o</span></p>\n<p>衷心感谢每一次的慷慨分享！使用愉快～</p>\n",
+            "tags": [
+                "C语言"
+            ]
+        },
+        {
+            "id": "http://qiji5211.com/2023/11/23/kaoshi/%E8%AE%A1%E5%AE%89%E5%AF%BC%E9%A2%98%E7%9B%AE&%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/",
+            "url": "http://qiji5211.com/2023/11/23/kaoshi/%E8%AE%A1%E5%AE%89%E5%AF%BC%E9%A2%98%E7%9B%AE&%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/",
+            "title": "计安导题目&复习资料",
+            "date_published": "2023-11-23T03:26:27.311Z",
+            "content_html": "<p>文件名：2019 年 1 月安全导论考试内容.txt<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9nbjRjcHo=\">https://easylink.cc/gn4cpz</span></p>\n<p>文件名：安全导论题型.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy8zY2Z2Y2Y=\">https://easylink.cc/3cfvcf</span></p>\n<p>文件名：计安导 复习.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9lcmh3Yjc=\">https://easylink.cc/erhwb7</span></p>\n<p>文件名：- 计算机安全导论课后作业题.docx<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9tOHJqOXg=\">https://easylink.cc/m8rj9x</span></p>\n<p>衷心感谢每一次的慷慨分享！使用愉快～</p>\n",
+            "tags": []
         }
     ]
 }

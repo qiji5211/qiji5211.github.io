@@ -1,9 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
-    <title>Hexo • Posts by &#34;马原&#34; tag</title>
-    <link href="http://example.com" />
+    <id>http://qiji5211.com</id>
+    <title>xdu共享资源库 • Posts by &#34;马原&#34; tag</title>
+    <link href="http://qiji5211.com" />
     <updated>2023-11-23T09:30:58.000Z</updated>
+    <category term="C语言" />
     <category term="微机原理" />
     <category term="高等数学相关书籍" />
     <category term="微处理器系统与应用" />
@@ -14,9 +15,9 @@
     <category term="马原" />
     <category term="数据库" />
     <entry>
-        <id>http://example.com/2023/11/23/kaoshi/%E9%A9%AC%E5%8E%9F%E8%B5%84%E6%96%99&amp;%E8%AF%95%E9%A2%98/</id>
+        <id>http://qiji5211.com/2023/11/23/kaoshi/%E9%A9%AC%E5%8E%9F%E8%B5%84%E6%96%99&amp;%E8%AF%95%E9%A2%98/</id>
         <title>马原资料&amp;试题</title>
-        <link rel="alternate" href="http://example.com/2023/11/23/kaoshi/%E9%A9%AC%E5%8E%9F%E8%B5%84%E6%96%99&amp;%E8%AF%95%E9%A2%98/"/>
+        <link rel="alternate" href="http://qiji5211.com/2023/11/23/kaoshi/%E9%A9%AC%E5%8E%9F%E8%B5%84%E6%96%99&amp;%E8%AF%95%E9%A2%98/"/>
         <content type="html">&lt;h2 id=&#34;数学规划模型&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#数学规划模型&#34;&gt;#&lt;/a&gt; 数学规划模型&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;程序文件 4-1 加工奶制品生产计划 (prog0401a.lg4)&lt;/li&gt;
