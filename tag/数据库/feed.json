@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hexo • All posts by \"数据库\" tag",
+    "description": "",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2023/11/23/kaoshi/%E8%AE%A1%E7%A7%91%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E5%BA%93%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/",
+            "url": "http://example.com/2023/11/23/kaoshi/%E8%AE%A1%E7%A7%91%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E5%BA%93%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/",
+            "title": "计科数据库试题",
+            "date_published": "2023-11-23T09:30:58.000Z",
+            "content_html": "<p>收集自 —— 【鸽子屋二号】</p>\n<p>文件名：15：40 计科 - 2020 年 8 月数据库补考 - 王小兵 (2).pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy8zamozZTM=\">https://easylink.cc/3jj3e3</span></p>\n<p>文件名：扫描全能王 2021-12-06 14.37 (1).pdf（某一年的期末卷子）<br>\n云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy95bTd0Yno=\">https://easylink.cc/ym7tbz</span></p>\n<p>文件名：数据库试题.pdf<br>\n 云链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9lYXN5bGluay5jYy9wYnZzNzE=\">https://easylink.cc/pbvs71</span></p>\n<p>简要介绍：收录了计科数据库试题，以 PDF 形式上传，使用愉快～<br>\n 衷心感谢每一次的慷慨分享 \\！</p>\n",
+            "tags": [
+                "数据库"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Hexo • Posts by &#34;马原&#34; tag</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>en</language>
+        <pubDate>Thu, 23 Nov 2023 17:30:58 +0800</pubDate>
+        <lastBuildDate>Thu, 23 Nov 2023 17:30:58 +0800</lastBuildDate>
+        <category>C语言</category>
+        <category>微机原理</category>
+        <category>高等数学相关书籍</category>
+        <category>微处理器系统与应用</category>
+        <category>毛概</category>
+        <category>数据结构</category>
+        <category>算法</category>
+        <category>面向对象程序设计</category>
+        <category>马原</category>
+        <category>数据库</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/11/23/kaoshi/%E9%A9%AC%E5%8E%9F%E8%B5%84%E6%96%99&amp;%E8%AF%95%E9%A2%98/</guid>
+            <title>马原资料&amp;试题</title>
+            <link>http://example.com/2023/11/23/kaoshi/%E9%A9%AC%E5%8E%9F%E8%B5%84%E6%96%99&amp;%E8%AF%95%E9%A2%98/</link>
+            <category>马原</category>
+            <pubDate>Thu, 23 Nov 2023 17:30:58 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;数学规划模型&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#数学规划模型&#34;&gt;#&lt;/a&gt; 数学规划模型&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;程序文件 4-1 加工奶制品生产计划 (prog0401a.lg4)&lt;/li&gt;
+&lt;li&gt;程序文件 4-2 奶制品生产销售计划 (prog0401b.lg4)&lt;/li&gt;
+&lt;li&gt;程序文件 4-3 自来水输送 (prog0402a.lg4)&lt;/li&gt;
+&lt;li&gt;程序文件 4-4 货机装运 (prog0402b.lg4)&lt;/li&gt;
+&lt;li&gt;程序文件 4-5 汽车生产 (prog0403a.lg4)&lt;br&gt;
+ 程序文件 4-6 汽车生产（加产量限制）0-1 规划 (prog0403b.lg4)&lt;br&gt;
+ 程序文件 4-7 汽车生产（加产量限制）非线性规划 (prog0403c.lg4&lt;/li&gt;
+&lt;li&gt;程序文件 4-8 原油采购与加工第 1 种解法 (prog0403d.lg4)&lt;br&gt;
+ 程序文件 4-9 原油采购与加工第 2 种解法 (prog0403e.lg4)&lt;br&gt;
+ 程序文件 4-10 原油采购与加工第 3 种解法 (prog0403f.lg4)&lt;/li&gt;
+&lt;li&gt;程序文件 4-11 接力队选拔 (prog0404a.lg4)&lt;/li&gt;
+&lt;li&gt;程序文件 4-12 选课策略 (prog0404b.lg4)&lt;br&gt;
+ 程序文件 4-13 两目标的选课策略 (prog0404c.lg4)&lt;/li&gt;
+&lt;li&gt;程序文件 4-14 饮料厂生产计划 (prog0405a.lg4)&lt;br&gt;
+ 程序文件 4-15 饮料厂生产与检修计划 (prog0405b.lg4)&lt;br&gt;
+ 程序文件 4-16 饮料厂生产批量计划 (prog0405c.lg4)&lt;/li&gt;
+&lt;li&gt;程序文件 4-17 钢管下料问题 1 (prog0406a.lg4)&lt;br&gt;
+ 程序文件 4-18 钢管下料问题 2 (prog0406b.lg4)&lt;/li&gt;
+&lt;li&gt;程序文件 4-19 易拉罐下料 (prog0406c.lg4)&lt;/li&gt;
+&lt;li&gt;程序文件 4-20 广告投入 (prog0407a.lg4)&lt;/li&gt;
+&lt;li&gt;程序文件 4-21 升级调薪 (prog0407b.lg4)&lt;/li&gt;
+&lt;li&gt;程序文件 4-22 投资组合股票收益 (prog0408a.lg4)&lt;/li&gt;
+&lt;li&gt;程序文件 4-23 投资收益和风险 (prog0408b.1g4)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;微分方程模型&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#微分方程模型&#34;&gt;#&lt;/a&gt; 微分方程模型&lt;/h2&gt;
+&lt;ol start=&#34;16&#34;&gt;
+&lt;li&gt;5.1 人口增长&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzU5MTc5NzUyL2FydGljbGUvZGV0YWlscy8xMjI3Mjg3MTQ=&#34;&gt; (14 条消息) 数学建模姜启源 5.1 人口增长 —— 学习记录_数学建模人口增长指数_亭午的博客 - CSDN 博客&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;习题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#习题&#34;&gt;#&lt;/a&gt; 习题&lt;/h2&gt;
+&lt;ol start=&#34;17&#34;&gt;
+&lt;li&gt;1-1 商人们怎样安全渡河&lt;/li&gt;
+&lt;li&gt;3-2 生猪的出售时机&lt;/li&gt;
+&lt;li&gt;3.7 冰山运输&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;统计模型&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#统计模型&#34;&gt;#&lt;/a&gt; 统计模型&lt;/h2&gt;
+&lt;ol start=&#34;18&#34;&gt;
+&lt;li&gt;程序文件 4-24 投资收益和风险的有效前沿 (prog0408c.m)&lt;/li&gt;
+&lt;li&gt;程序文件 9-1 胎儿健康的参数估计与假设检验 (prog0901a.m)&lt;br&gt;
+ 程序文件 9-2 胎儿健康（吸烟孕妇）的一元回归 (prog0901b.m)&lt;br&gt;
+ 程序文件 9-3 胎儿健康（不吸烟孕妇）的一元回归 (prog0901c.m)&lt;br&gt;
+ 程序文件 9-4 胎儿健康的多元回归 (prog0901d.m)&lt;br&gt;
+ 程序文件 9-5 胎儿健康的逐步回归 (prog0901e.m)&lt;/li&gt;
+&lt;li&gt;程序文件 9-6 软件开发人员薪金基本模型 (prog0902a.m)&lt;br&gt;
+ 程序文件 9-7 软件开发人员薪金增加交互项 (prog0902b.m)&lt;br&gt;
+ 程序文件 9-8 软件开发人员薪金去除异常点 (prog0s902c.m)&lt;/li&gt;
+&lt;li&gt;程序文件 9-9 酶促反应线性化模型和非线性模型 (prog0903a.m)&lt;br&gt;
+ 程序文件 9-10 酶促反应非线性模型子程序 (prog0903a1.m)&lt;br&gt;
+ 程序文件 9-11 酶促反应混合模型 (prog0903b.m)&lt;br&gt;
+ 程序文件 9-12 酶促反应混合模型子程序 1 (prog0903b1.m)&lt;br&gt;
+ 程序文件 9-13 酶促反应混合模型子程序 2 (prog0903b2.m)&lt;/li&gt;
+&lt;li&gt;程序文件 9-14 投资额与生产总值和物价指数 (prog0904.m)&lt;/li&gt;
+&lt;li&gt;程序文件 9-15 冠心病与年龄 (prog0905.m)&lt;/li&gt;
+&lt;li&gt;程序文件 9-16 蠓虫分类判别 (prog0906.m)&lt;/li&gt;
+&lt;li&gt;程序文件 9-17 学生考试成绩综合评价 (prog0907.m)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;司守奎-数学建模算法与应用-第二版&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#司守奎-数学建模算法与应用-第二版&#34;&gt;#&lt;/a&gt; 司守奎 《数学建模算法与应用》 第二版&lt;/h2&gt;
+&lt;h4 id=&#34;有些没问题分析和结果分析&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#有些没问题分析和结果分析&#34;&gt;#&lt;/a&gt; 有些没问题分析和结果分析&lt;/h4&gt;
+&lt;ol start=&#34;28&#34;&gt;
+&lt;li&gt;P211 9.3 乳腺癌的诊断 —— 支持向量机&lt;/li&gt;
+&lt;li&gt;P226 10.1.3 聚类分析案例 —— 我国各地区普通高等教育发展状况分析&lt;/li&gt;
+&lt;li&gt;P399 15.2 灰色预测模型 例 15.2&lt;/li&gt;
+&lt;li&gt;P419 15.5.2 税收收入 AR 预测模型&lt;/li&gt;
+&lt;li&gt;P422 插值与拟合 15.6.2 录像机计数器的用途&lt;/li&gt;
+&lt;li&gt;P427 15.7.3 基于神经网络的年径流预报实例&lt;/li&gt;
+&lt;li&gt;P72 4.9 钢管订购和运输&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;自己找的有程序&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#自己找的有程序&#34;&gt;#&lt;/a&gt; 自己找的（有程序）&lt;/h2&gt;
+&lt;h2 id=&#34;真真得自己写程序&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#真真得自己写程序&#34;&gt;#&lt;/a&gt; 真真得自己写程序&lt;/h2&gt;
+&lt;p&gt;2.5 估计出租车总数&lt;br&gt;
+ 2.6 评选举重冠军&lt;br&gt;
+ 3.8 影院里的视角和仰角&lt;br&gt;
+ 5.7 食饵与捕食者模型&lt;br&gt;
+ 5.10 传染病模型和 SARS 的传播&lt;/p&gt;
+&lt;h2 id=&#34;不知能写否&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#不知能写否&#34;&gt;#&lt;/a&gt; 不知能写否？&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;传染病模型（无代码）&lt;br&gt;
+![[百度文库文档.pdf]]&lt;/li&gt;
+&lt;li&gt;蒙特卡洛（无详细的问题分析和结果分析）&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYxNTA3MS9hcnRpY2xlL2RldGFpbHMvMTA4MzM3OTU0P29wc19yZXF1ZXN0X21pc2M9JTI1N0IlMjUyMnJlcXVlc3QlMjU1RmlkJTI1MjIlMjUzQSUyNTIyMTY4OTMzNDY0MjE2ODAwMTgyMTMyMjg5JTI1MjIlMjUyQyUyNTIyc2NtJTI1MjIlMjUzQSUyNTIyMjAxNDA3MTMuMTMwMTAyMzM0Li4lMjUyMiUyNTdEJmFtcDtyZXF1ZXN0X2lkPTE2ODkzMzQ2NDIxNjgwMDE4MjEzMjI4OSZhbXA7Yml6X2lkPTAmYW1wO3V0bV9tZWRpdW09ZGlzdHJpYnV0ZS5wY19zZWFyY2hfcmVzdWx0Lm5vbmUtdGFzay1ibG9nLTJ+YWxsfnNvYmFpZHVlbmR+ZGVmYXVsdC00LTEwODMzNzk1NC1udWxsLW51bGwuMTQyJTVFdjg4JTVFaW5zZXJ0X2Rvd24xLDIzOSU1RXYyJTVFaW5zZXJ0X2NoYXRncHQmYW1wO3V0bV90ZXJtPSVFNiU5NSVCMCVFNSVBRCVBNiVFNSVCQiVCQSVFNiVBOCVBMSVFNiVBMSU4OCVFNCVCRSU4QiZhbXA7c3BtPTEwMTguMjIyNi4zMDAxLjQxODc=&#34;&gt;(14 条消息) 【16】 数学建模 | 蒙特卡洛模拟方法 | 详细案例和代码解析 (清风课程，有版权问题，私聊删除)_直接模拟蒙特卡洛法_Cohen_ina 的博客 - CSDN 博客&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;清风还在看&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#清风还在看&#34;&gt;#&lt;/a&gt; 清风（还在看）&lt;/h2&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
