@@ -1,13 +1,12 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>xdu共享资源库 • Posts by &#34;微机原理&#34; tag</title>
-        <link>https://qiji5211/project</link>
-        <description>本站所有资料仅供交流学习使用，不作商业用途</description>
-        <language>zh-CN</language>
+        <title>Hexo • Posts by &#34;微机原理&#34; tag</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>en</language>
         <pubDate>Thu, 23 Nov 2023 17:30:58 +0800</pubDate>
         <lastBuildDate>Thu, 23 Nov 2023 17:30:58 +0800</lastBuildDate>
-        <category>C语言</category>
         <category>微机原理</category>
         <category>高等数学相关书籍</category>
         <category>微处理器系统与应用</category>
@@ -18,9 +17,9 @@
         <category>马原</category>
         <category>数据库</category>
         <item>
-            <guid isPermalink="true">https://qiji5211/project/2023/11/23/kaoshi/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/</guid>
+            <guid isPermalink="true">http://example.com/2023/11/23/kaoshi/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/</guid>
             <title>微机原理考试题目</title>
-            <link>https://qiji5211/project/2023/11/23/kaoshi/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/</link>
+            <link>http://example.com/2023/11/23/kaoshi/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/</link>
             <category>微机原理</category>
             <pubDate>Thu, 23 Nov 2023 17:30:58 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;收集自 ——【鸽子屋二号】&lt;/p&gt;
