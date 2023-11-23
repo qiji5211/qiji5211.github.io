@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Hexo • Posts by &#34;c语言&#34; tag</title>
-        <link>http://example.com</link>
-        <description></description>
-        <language>en</language>
+        <title>xdu共享资源库 • Posts by &#34;c语言&#34; tag</title>
+        <link>https://qiji5211/project</link>
+        <description>本站所有资料仅供交流学习使用，不作商业用途</description>
+        <language>zh-CN</language>
         <pubDate>Thu, 23 Nov 2023 17:30:58 +0800</pubDate>
         <lastBuildDate>Thu, 23 Nov 2023 17:30:58 +0800</lastBuildDate>
         <category>C语言</category>
@@ -18,9 +18,9 @@
         <category>马原</category>
         <category>数据库</category>
         <item>
-            <guid isPermalink="true">http://example.com/2023/11/23/kaoshi/C%E8%AF%AD%E8%A8%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98/</guid>
+            <guid isPermalink="true">https://qiji5211/project/2023/11/23/kaoshi/C%E8%AF%AD%E8%A8%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98/</guid>
             <title>C语言期末试题</title>
-            <link>http://example.com/2023/11/23/kaoshi/C%E8%AF%AD%E8%A8%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98/</link>
+            <link>https://qiji5211/project/2023/11/23/kaoshi/C%E8%AF%AD%E8%A8%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98/</link>
             <category>C语言</category>
             <pubDate>Thu, 23 Nov 2023 17:30:58 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;文件名：C 语言期末.zip&lt;br /&gt;
