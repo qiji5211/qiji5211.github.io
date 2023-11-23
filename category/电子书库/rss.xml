@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>xdu共享资源库 • Posts by &#34;电子书库&#34; category</title>
-        <link>https://qiji5211/project</link>
-        <description>本站所有资料仅供交流学习使用，不作商业用途</description>
-        <language>zh-CN</language>
+        <title>Hexo • Posts by &#34;电子书库&#34; category</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>en</language>
         <pubDate>Thu, 23 Nov 2023 17:30:58 +0800</pubDate>
         <lastBuildDate>Thu, 23 Nov 2023 17:30:58 +0800</lastBuildDate>
         <category>微机原理</category>
@@ -17,9 +17,9 @@
         <category>马原</category>
         <category>数据库</category>
         <item>
-            <guid isPermalink="true">https://qiji5211/project/2023/11/23/shuji/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%9B%B8%E5%85%B3%E4%B9%A6%E7%B1%8D/</guid>
+            <guid isPermalink="true">http://example.com/2023/11/23/shuji/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%9B%B8%E5%85%B3%E4%B9%A6%E7%B1%8D/</guid>
             <title>算法复习资料</title>
-            <link>https://qiji5211/project/2023/11/23/shuji/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%9B%B8%E5%85%B3%E4%B9%A6%E7%B1%8D/</link>
+            <link>http://example.com/2023/11/23/shuji/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%9B%B8%E5%85%B3%E4%B9%A6%E7%B1%8D/</link>
             <category>高等数学相关书籍</category>
             <pubDate>Thu, 23 Nov 2023 17:30:58 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;收集自 ——【西电科大书籍资料群】&lt;/p&gt;

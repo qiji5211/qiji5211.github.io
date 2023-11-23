@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://qiji5211/project</id>
-    <title>xdu共享资源库 • Posts by &#34;考试资料库&#34; category</title>
-    <link href="https://qiji5211/project" />
+    <id>http://example.com</id>
+    <title>Hexo • Posts by &#34;考试资料库&#34; category</title>
+    <link href="http://example.com" />
     <updated>2023-11-23T09:30:58.000Z</updated>
     <category term="微机原理" />
     <category term="高等数学相关书籍" />
@@ -14,9 +14,9 @@
     <category term="马原" />
     <category term="数据库" />
     <entry>
-        <id>https://qiji5211/project/2023/11/23/kaoshi/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/</id>
+        <id>http://example.com/2023/11/23/kaoshi/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/</id>
         <title>微机原理考试题目</title>
-        <link rel="alternate" href="https://qiji5211/project/2023/11/23/kaoshi/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/"/>
+        <link rel="alternate" href="http://example.com/2023/11/23/kaoshi/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/"/>
         <content type="html">&lt;p&gt;收集自 ——【鸽子屋二号】&lt;/p&gt;
 &lt;p&gt;文件名：微机原理补考.pdf&lt;br&gt;
  云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9ycGlnaW0=&#34;&gt;https://easylink.cc/rpigim&lt;/span&gt;&lt;/p&gt;
@@ -32,9 +32,9 @@
         <updated>2023-11-23T09:30:58.000Z</updated>
     </entry>
     <entry>
-        <id>https://qiji5211/project/2023/11/23/kaoshi/%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%BA%94%E7%94%A8/</id>
+        <id>http://example.com/2023/11/23/kaoshi/%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%BA%94%E7%94%A8/</id>
         <title>微处理器系统与应用</title>
-        <link rel="alternate" href="https://qiji5211/project/2023/11/23/kaoshi/%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%BA%94%E7%94%A8/"/>
+        <link rel="alternate" href="http://example.com/2023/11/23/kaoshi/%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%BA%94%E7%94%A8/"/>
         <content type="html">&lt;p&gt;收集自 ——【鸽子屋二号】&lt;/p&gt;
 &lt;p&gt;微处理器系统与应用 - 1 - 系统概述 (打印版）.pdf&lt;br&gt;
  云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9sNWgwODQ=&#34;&gt;https://easylink.cc/l5h084&lt;/span&gt;&lt;/p&gt;
@@ -61,9 +61,9 @@
         <updated>2023-11-23T09:30:58.000Z</updated>
     </entry>
     <entry>
-        <id>https://qiji5211/project/2023/11/23/kaoshi/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/</id>
+        <id>http://example.com/2023/11/23/kaoshi/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/</id>
         <title>毛概题库</title>
-        <link rel="alternate" href="https://qiji5211/project/2023/11/23/kaoshi/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/"/>
+        <link rel="alternate" href="http://example.com/2023/11/23/kaoshi/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/"/>
         <content type="html">&lt;p&gt;收集自 ——【鸽子屋二号】&lt;/p&gt;
 &lt;p&gt;文件名：毛概题库密码是 123456.7z&lt;br&gt;
  云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9paHpkM2Y=&#34;&gt;https://easylink.cc/ihzd3f&lt;/span&gt;&lt;/p&gt;
@@ -73,9 +73,9 @@
         <updated>2023-11-23T09:30:58.000Z</updated>
     </entry>
     <entry>
-        <id>https://qiji5211/project/2023/11/23/kaoshi/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%A2%98%E7%9B%AE%E5%90%88%E9%9B%86/</id>
+        <id>http://example.com/2023/11/23/kaoshi/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%A2%98%E7%9B%AE%E5%90%88%E9%9B%86/</id>
         <title>数据结构题目合集</title>
-        <link rel="alternate" href="https://qiji5211/project/2023/11/23/kaoshi/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%A2%98%E7%9B%AE%E5%90%88%E9%9B%86/"/>
+        <link rel="alternate" href="http://example.com/2023/11/23/kaoshi/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%A2%98%E7%9B%AE%E5%90%88%E9%9B%86/"/>
         <content type="html">&lt;p&gt;收集自 ——【鸽子屋二号】&lt;/p&gt;
 &lt;p&gt;文件名：考试题目&lt;br&gt;
 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9tbTFuNHQ=&#34;&gt;https://easylink.cc/mm1n4t&lt;/span&gt;&lt;/p&gt;
@@ -88,9 +88,9 @@
         <updated>2023-11-23T09:30:58.000Z</updated>
     </entry>
     <entry>
-        <id>https://qiji5211/project/2023/11/23/kaoshi/%E7%AE%97%E6%B3%95%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/</id>
+        <id>http://example.com/2023/11/23/kaoshi/%E7%AE%97%E6%B3%95%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/</id>
         <title>算法复习资料</title>
-        <link rel="alternate" href="https://qiji5211/project/2023/11/23/kaoshi/%E7%AE%97%E6%B3%95%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+        <link rel="alternate" href="http://example.com/2023/11/23/kaoshi/%E7%AE%97%E6%B3%95%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/"/>
         <content type="html">&lt;p&gt;收集自 ——【鸽子屋二号】&lt;/p&gt;
 &lt;p&gt;文件名：算法 Algorithm_A_最终版 - 张立勇.pdf&lt;br&gt;
  云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9mcjd1azI=&#34;&gt;https://easylink.cc/fr7uk2&lt;/span&gt;&lt;/p&gt;
@@ -111,9 +111,9 @@
         <updated>2023-11-23T09:30:58.000Z</updated>
     </entry>
     <entry>
-        <id>https://qiji5211/project/2023/11/23/kaoshi/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/</id>
+        <id>http://example.com/2023/11/23/kaoshi/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/</id>
         <title>面向对象程序设计考试题目</title>
-        <link rel="alternate" href="https://qiji5211/project/2023/11/23/kaoshi/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/"/>
+        <link rel="alternate" href="http://example.com/2023/11/23/kaoshi/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/"/>
         <content type="html">&lt;p&gt;收集自 ——【鸽子屋二号】&lt;/p&gt;
 &lt;p&gt;文件名：《面向对象程序设计》习题答案 2008-c  部分.ppt&lt;br&gt;
  云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy84dGMxMWs=&#34;&gt;https://easylink.cc/8tc11k&lt;/span&gt;&lt;/p&gt;
@@ -130,9 +130,9 @@
         <updated>2023-11-23T09:30:58.000Z</updated>
     </entry>
     <entry>
-        <id>https://qiji5211/project/2023/11/23/kaoshi/%E9%A9%AC%E5%8E%9F%E8%B5%84%E6%96%99&amp;%E8%AF%95%E9%A2%98/</id>
+        <id>http://example.com/2023/11/23/kaoshi/%E9%A9%AC%E5%8E%9F%E8%B5%84%E6%96%99&amp;%E8%AF%95%E9%A2%98/</id>
         <title>马原资料&amp;试题</title>
-        <link rel="alternate" href="https://qiji5211/project/2023/11/23/kaoshi/%E9%A9%AC%E5%8E%9F%E8%B5%84%E6%96%99&amp;%E8%AF%95%E9%A2%98/"/>
+        <link rel="alternate" href="http://example.com/2023/11/23/kaoshi/%E9%A9%AC%E5%8E%9F%E8%B5%84%E6%96%99&amp;%E8%AF%95%E9%A2%98/"/>
         <content type="html">&lt;h2 id=&#34;数学规划模型&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#数学规划模型&#34;&gt;#&lt;/a&gt; 数学规划模型&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;程序文件 4-1 加工奶制品生产计划 (prog0401a.lg4)&lt;/li&gt;
@@ -221,9 +221,9 @@
         <updated>2023-11-23T09:30:58.000Z</updated>
     </entry>
     <entry>
-        <id>https://qiji5211/project/2023/11/23/kaoshi/%E8%AE%A1%E7%A7%91%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E5%BA%93%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/</id>
+        <id>http://example.com/2023/11/23/kaoshi/%E8%AE%A1%E7%A7%91%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E5%BA%93%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/</id>
         <title>计科数据库试题</title>
-        <link rel="alternate" href="https://qiji5211/project/2023/11/23/kaoshi/%E8%AE%A1%E7%A7%91%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E5%BA%93%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/"/>
+        <link rel="alternate" href="http://example.com/2023/11/23/kaoshi/%E8%AE%A1%E7%A7%91%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E5%BA%93%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/"/>
         <content type="html">&lt;p&gt;收集自 —— 【鸽子屋二号】&lt;/p&gt;
 &lt;p&gt;文件名：15：40 计科 - 2020 年 8 月数据库补考 - 王小兵 (2).pdf&lt;br&gt;
  云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy8zamozZTM=&#34;&gt;https://easylink.cc/3jj3e3&lt;/span&gt;&lt;/p&gt;
