@@ -6,16 +6,17 @@
     <updated>2023-11-23T09:30:58.000Z</updated>
     <category term="电路" />
     <category term="大创" />
-    <category term="微机原理" />
     <category term="C语言" />
-    <category term="数据结构" />
     <category term="微处理器系统与应用" />
-    <category term="算法" />
+    <category term="数据结构" />
+    <category term="微机原理" />
     <category term="毛概" />
-    <category term="面向对象程序设计" />
-    <category term="马原" />
+    <category term="算法" />
     <category term="数据库" />
+    <category term="慧试" />
+    <category term="马原" />
     <category term="高等数学相关书籍" />
+    <category term="面向对象程序设计" />
     <entry>
         <id>http://qiji5211.com/2023/11/23/%E6%85%A7%E8%AF%95%E4%BB%98%E8%B4%B9%E4%B9%A6%E7%B1%8D%E7%AD%B9%E6%AC%BE%E8%AF%B4%E6%98%8E%EF%BC%81/</id>
         <title>慧试付费书籍筹款说明！</title>
@@ -46,31 +47,13 @@
         <updated>2023-11-23T09:30:58.000Z</updated>
     </entry>
     <entry>
-        <id>http://qiji5211.com/2023/11/23/dachung/%E5%A4%A7%E5%88%9B%E9%A1%B9%E7%9B%AE%E5%90%88%E9%9B%86/</id>
+        <id>http://qiji5211.com/2023/11/23/da/%E5%A4%A7%E5%88%9B%E9%A1%B9%E7%9B%AE%E5%90%88%E9%9B%86/</id>
         <title>大创项目合集</title>
-        <link rel="alternate" href="http://qiji5211.com/2023/11/23/dachung/%E5%A4%A7%E5%88%9B%E9%A1%B9%E7%9B%AE%E5%90%88%E9%9B%86/"/>
+        <link rel="alternate" href="http://qiji5211.com/2023/11/23/da/%E5%A4%A7%E5%88%9B%E9%A1%B9%E7%9B%AE%E5%90%88%E9%9B%86/"/>
         <content type="html">&lt;p&gt;【腾讯文档】2024 年度西电大学生创新创业训练计划命题清单&lt;br /&gt;
 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLnFxLmNvbS9zaGVldC9EVldSVlJXRktVMEZ3WWxwUz90YWI9QkIwOEoy&#34;&gt; https://docs.qq.com/sheet/DVWRVRWFKU0FwYlpS?tab=BB08J2&lt;/span&gt;&lt;/p&gt;
 </content>
         <category term="大创" />
-        <updated>2023-11-23T09:30:58.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://qiji5211.com/2023/11/23/kaoshi/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/</id>
-        <title>微机原理考试题目</title>
-        <link rel="alternate" href="http://qiji5211.com/2023/11/23/kaoshi/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/"/>
-        <content type="html">&lt;p&gt;收集自 ——【鸽子屋二号】&lt;/p&gt;
-&lt;p&gt;文件名：微机原理补考.pdf&lt;br /&gt;
- 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9ycGlnaW0=&#34;&gt;https://easylink.cc/rpigim&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;文件名：微机原理补考参考答案.pdf&lt;br /&gt;
- 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy84bW0waHA=&#34;&gt;https://easylink.cc/8mm0hp&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;文件名：微机原理正考.pdf&lt;br /&gt;
- 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9wbDE4azg=&#34;&gt;https://easylink.cc/pl18k8&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;文件名：微机原理正考参考答案.pdf&lt;br /&gt;
- 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy8zbHIwejE=&#34;&gt;https://easylink.cc/3lr0z1&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;衷心感谢每一次的慷慨分享！使用愉快～&lt;/p&gt;
-</content>
-        <category term="微机原理" />
         <updated>2023-11-23T09:30:58.000Z</updated>
     </entry>
     <entry>
@@ -82,21 +65,6 @@
 &lt;p&gt;衷心感谢每一次的慷慨分享！使用愉快～&lt;/p&gt;
 </content>
         <category term="C语言" />
-        <updated>2023-11-23T09:30:58.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://qiji5211.com/2023/11/23/kaoshi/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%A2%98%E7%9B%AE%E5%90%88%E9%9B%86/</id>
-        <title>数据结构题目合集</title>
-        <link rel="alternate" href="http://qiji5211.com/2023/11/23/kaoshi/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%A2%98%E7%9B%AE%E5%90%88%E9%9B%86/"/>
-        <content type="html">&lt;p&gt;收集自 ——【鸽子屋二号】&lt;/p&gt;
-&lt;p&gt;文件名：考试题目&lt;br /&gt;
-云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9tbTFuNHQ=&#34;&gt;https://easylink.cc/mm1n4t&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;文件名：数据结构上机题库.zip&lt;br /&gt;
- 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9oNTR2M2U=&#34;&gt;https://easylink.cc/h54v3e&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;简要介绍：收录了 OJ2-397 的题目，以 ZIP 形式上传，使用愉快～&lt;br /&gt;
- 衷心感谢每一次的慷慨分享！&lt;/p&gt;
-</content>
-        <category term="数据结构" />
         <updated>2023-11-23T09:30:58.000Z</updated>
     </entry>
     <entry>
@@ -129,6 +97,51 @@
         <updated>2023-11-23T09:30:58.000Z</updated>
     </entry>
     <entry>
+        <id>http://qiji5211.com/2023/11/23/kaoshi/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%A2%98%E7%9B%AE%E5%90%88%E9%9B%86/</id>
+        <title>数据结构题目合集</title>
+        <link rel="alternate" href="http://qiji5211.com/2023/11/23/kaoshi/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%A2%98%E7%9B%AE%E5%90%88%E9%9B%86/"/>
+        <content type="html">&lt;p&gt;收集自 ——【鸽子屋二号】&lt;/p&gt;
+&lt;p&gt;文件名：考试题目&lt;br /&gt;
+云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9tbTFuNHQ=&#34;&gt;https://easylink.cc/mm1n4t&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;文件名：数据结构上机题库.zip&lt;br /&gt;
+ 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9oNTR2M2U=&#34;&gt;https://easylink.cc/h54v3e&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;简要介绍：收录了 OJ2-397 的题目，以 ZIP 形式上传，使用愉快～&lt;br /&gt;
+ 衷心感谢每一次的慷慨分享！&lt;/p&gt;
+</content>
+        <category term="数据结构" />
+        <updated>2023-11-23T09:30:58.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://qiji5211.com/2023/11/23/kaoshi/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/</id>
+        <title>微机原理考试题目</title>
+        <link rel="alternate" href="http://qiji5211.com/2023/11/23/kaoshi/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/"/>
+        <content type="html">&lt;p&gt;收集自 ——【鸽子屋二号】&lt;/p&gt;
+&lt;p&gt;文件名：微机原理补考.pdf&lt;br /&gt;
+ 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9ycGlnaW0=&#34;&gt;https://easylink.cc/rpigim&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;文件名：微机原理补考参考答案.pdf&lt;br /&gt;
+ 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy84bW0waHA=&#34;&gt;https://easylink.cc/8mm0hp&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;文件名：微机原理正考.pdf&lt;br /&gt;
+ 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9wbDE4azg=&#34;&gt;https://easylink.cc/pl18k8&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;文件名：微机原理正考参考答案.pdf&lt;br /&gt;
+ 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy8zbHIwejE=&#34;&gt;https://easylink.cc/3lr0z1&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;衷心感谢每一次的慷慨分享！使用愉快～&lt;/p&gt;
+</content>
+        <category term="微机原理" />
+        <updated>2023-11-23T09:30:58.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://qiji5211.com/2023/11/23/kaoshi/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/</id>
+        <title>毛概题库</title>
+        <link rel="alternate" href="http://qiji5211.com/2023/11/23/kaoshi/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/"/>
+        <content type="html">&lt;p&gt;收集自 ——【鸽子屋二号】&lt;/p&gt;
+&lt;p&gt;文件名：毛概题库密码是 123456.7z&lt;br /&gt;
+ 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9paHpkM2Y=&#34;&gt;https://easylink.cc/ihzd3f&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;衷心感谢每一次的慷慨分享！使用愉快～&lt;/p&gt;
+</content>
+        <category term="毛概" />
+        <updated>2023-11-23T09:30:58.000Z</updated>
+    </entry>
+    <entry>
         <id>http://qiji5211.com/2023/11/23/kaoshi/%E7%AE%97%E6%B3%95%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/</id>
         <title>算法复习资料</title>
         <link rel="alternate" href="http://qiji5211.com/2023/11/23/kaoshi/%E7%AE%97%E6%B3%95%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/"/>
@@ -152,44 +165,163 @@
         <updated>2023-11-23T09:30:58.000Z</updated>
     </entry>
     <entry>
-        <id>http://qiji5211.com/2023/11/23/kaoshi/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/</id>
-        <title>毛概题库</title>
-        <link rel="alternate" href="http://qiji5211.com/2023/11/23/kaoshi/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/"/>
-        <content type="html">&lt;p&gt;收集自 ——【鸽子屋二号】&lt;/p&gt;
-&lt;p&gt;文件名：毛概题库密码是 123456.7z&lt;br /&gt;
- 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9paHpkM2Y=&#34;&gt;https://easylink.cc/ihzd3f&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;衷心感谢每一次的慷慨分享！使用愉快～&lt;/p&gt;
+        <id>http://qiji5211.com/2023/11/23/kaoshi/%E8%AE%A1%E7%A7%91%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E5%BA%93%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/</id>
+        <title>计科数据库试题</title>
+        <link rel="alternate" href="http://qiji5211.com/2023/11/23/kaoshi/%E8%AE%A1%E7%A7%91%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E5%BA%93%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/"/>
+        <content type="html">&lt;p&gt;收集自 —— 【鸽子屋二号】&lt;/p&gt;
+&lt;p&gt;文件名：15：40 计科 - 2020 年 8 月数据库补考 - 王小兵 (2).pdf&lt;br /&gt;
+ 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy8zamozZTM=&#34;&gt;https://easylink.cc/3jj3e3&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;文件名：扫描全能王 2021-12-06 14.37 (1).pdf（某一年的期末卷子）&lt;br /&gt;
+云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy95bTd0Yno=&#34;&gt;https://easylink.cc/ym7tbz&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;文件名：数据库试题.pdf&lt;br /&gt;
+ 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9wYnZzNzE=&#34;&gt;https://easylink.cc/pbvs71&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;简要介绍：收录了计科数据库试题，以 PDF 形式上传，使用愉快～&lt;br /&gt;
+ 衷心感谢每一次的慷慨分享 \！&lt;/p&gt;
 </content>
-        <category term="毛概" />
+        <category term="数据库" />
         <updated>2023-11-23T09:30:58.000Z</updated>
     </entry>
     <entry>
-        <id>http://qiji5211.com/2023/11/23/kaoshi/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/</id>
-        <title>面向对象程序设计考试题目</title>
-        <link rel="alternate" href="http://qiji5211.com/2023/11/23/kaoshi/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/"/>
-        <content type="html">&lt;p&gt;收集自 ——【鸽子屋二号】&lt;/p&gt;
-&lt;p&gt;文件名：《面向对象程序设计》习题答案 2008-c  部分.ppt&lt;br /&gt;
- 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy84dGMxMWs=&#34;&gt;https://easylink.cc/8tc11k&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;文件名：《面向对象程序设计 C--》期末试卷及标准答案 (A).doc&lt;br /&gt;
- 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy85MG03MWE=&#34;&gt;https://easylink.cc/90m71a&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;文件名：《面向对象程序设计 C--》期末试卷及标准答案集总解析.doc&lt;br /&gt;
- 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9sOXQzZHc=&#34;&gt;https://easylink.cc/l9t3dw&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;文件名：c++.docx&lt;br /&gt;
- 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9mYW5iZnk=&#34;&gt;https://easylink.cc/fanbfy&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;简要介绍：收录了面向对象程序设计部分题目，使用愉快～&lt;br /&gt;
- 衷心感谢每一次的慷慨分享！&lt;/p&gt;
+        <id>http://qiji5211.com/2023/11/23/oop/Hexo%20%E4%B8%BB%E9%A2%98%20Shoka%20&amp;%20multi-markdown-it%20%E6%B8%B2%E6%9F%93%E5%99%A8%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/</id>
+        <title>Hexo 主题 Shoka &amp; multi-markdown-it 渲染器使用说明</title>
+        <link rel="alternate" href="http://qiji5211.com/2023/11/23/oop/Hexo%20%E4%B8%BB%E9%A2%98%20Shoka%20&amp;%20multi-markdown-it%20%E6%B8%B2%E6%9F%93%E5%99%A8%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/"/>
+        <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt;hexo-theme-shoka&lt;/span&gt; ：本博客自用的主题&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by1yZW5kZXJlci1tdWx0aS1tYXJrZG93bi1pdA==&#34;&gt;hexo-renderer-multi-markdown-it&lt;/span&gt;：配套的 markdown 渲染器&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;已经支持 hexo 5。&lt;/p&gt;
+&lt;p&gt;本项目是完全开源的，也有做一些 example 示例，大家可以随便拿随便改。&lt;br /&gt;
+但是很抱歉，博主我暂时不能提供更多的支持，这个写的乱七八糟的文档，暂时也没有时间把它写得更专业一些。&lt;br /&gt;
+非常对不住大家！&lt;/p&gt;
+&lt;p&gt;当前版本更新至 0.2.5，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy8jJUU2JTlCJUI0JUU2JTk2JUIwJUU4JUFFJUIwJUU1JUJEJTk1&#34;&gt;更新记录点此&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/&#34;&gt;&lt;strong&gt;🚀快速开始&lt;/strong&gt;&lt;/a&gt; - &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9kZXBlbmRlbnRzLw==&#34;&gt;💌依赖插件&lt;/span&gt; - &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9jb25maWcv&#34;&gt;📌基本配置&lt;/span&gt; - &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9kaXNwbGF5Lw==&#34;&gt;🌈界面显示&lt;/span&gt; - &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9zcGVjaWFsLw==&#34;&gt;🦄特殊功能&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;设计缘由&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设计缘由&#34;&gt;#&lt;/a&gt; 设计缘由&lt;/h1&gt;
+&lt;p&gt;前几年在 Bear 和 Evernote 上整理了大量笔记，非常喜欢 Bear 默认的 markdown 渲染样式。&lt;br /&gt;
+后来因为换了安卓手机，用不了 Bear，四处搜寻替代品，没有满意的。&lt;br /&gt;
+然后阴差阳错知道了 Hexo，又得知 Github 也可以免费建私有仓库了，故再次转移阵地到了自建博客，并部署在 Github Pages。&lt;/p&gt;
+&lt;p&gt;因为这个博客是用来记笔记的，故起名  &lt;code&gt;书架&lt;/code&gt;  。&lt;br /&gt;
+对应的主题即  &lt;code&gt;Theme.Shoka&lt;/code&gt;  ，可以说是为了笔记阅读而生的主题。&lt;br /&gt;
+样式严重参考 Bear，部分代码严重参考 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3RoZW1lLW5leHQv&#34;&gt;NexT&lt;/span&gt;。&lt;/p&gt;
+&lt;p&gt;Hexo 的默认及常用渲染器均使用  &lt;code&gt;highlight.js&lt;/code&gt;  进行代码高亮，而我喜欢  &lt;code&gt;Prism.js&lt;/code&gt;  ，故重写了一个渲染器配合主题食用。&lt;br /&gt;
+渲染器取名  &lt;code&gt;multi&lt;/code&gt;  ，因为集成了很多很多很多  &lt;code&gt;markdown-it&lt;/code&gt;  插件，以及压缩静态文件的功能。&lt;br /&gt;
+（最新版的默认渲染器也支持  &lt;code&gt;Prism.js&lt;/code&gt;  了，可喜可贺，但不想用，哈哈哈哈哈哈哈&lt;/p&gt;
+&lt;p&gt;墙内 Github Pages 访问速度时而感人，所以用了 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5qc2RlbGl2ci5jb20v&#34;&gt;jsDelivr&lt;/span&gt; 加速，主要是因为它可以按需合并依赖文件。&lt;/p&gt;
+&lt;h1 id=&#34;快速安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#快速安装&#34;&gt;#&lt;/a&gt; 快速安装&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;# cd your-blog&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;git clone &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYS5naXQ=&#34;&gt;https://github.com/amehime/hexo-theme-shoka.git&lt;/span&gt; ./themes/shoka&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;打开主题目录，内有  &lt;code&gt;example&lt;/code&gt;  文件夹，提供了配置文件的 demo 供参考。&lt;/p&gt;
+&lt;h1 id=&#34;安装依赖插件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装依赖插件&#34;&gt;#&lt;/a&gt; 安装依赖插件&lt;/h1&gt;
+&lt;p&gt;在应用主题之前，必须至少安装 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by1yZW5kZXJlci1tdWx0aS1tYXJrZG93bi1pdA==&#34;&gt;hexo-renderer-multi-markdown-it&lt;/span&gt; 渲染插件 和 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1hdXRvcHJlZml4ZXI=&#34;&gt;hexo-autoprefixer&lt;/span&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9kZXBlbmRlbnRzLw==&#34;&gt;插件安装与配置教程戳此&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;应用主题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用主题&#34;&gt;#&lt;/a&gt; 应用主题&lt;/h1&gt;
+&lt;h2 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy8jJUU0JUJGJUFFJUU2JTk0JUI5JUU3JUFCJTk5JUU3JTgyJUI5JUU5JTg1JThEJUU3JUJEJUFF&#34;&gt;#&lt;/span&gt;修改站点配置&lt;/h2&gt;
+&lt;p&gt;修改站点配置文件  &lt;code&gt;&amp;lt;root&amp;gt;/_config.yml&lt;/code&gt;  ，把主题改为  &lt;code&gt;shoka&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;theme: shoka&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;修改主题配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#修改主题配置&#34;&gt;#&lt;/a&gt; 修改主题配置&lt;/h2&gt;
+&lt;p&gt;主题配置的所有参数在  &lt;code&gt;&amp;lt;root&amp;gt;/themes/shoka/_config.yml&lt;/code&gt;  文件中。&lt;/p&gt;
+&lt;p&gt;为了方便主题升级，请在根目录新建一个 yml 文件，命名为  &lt;code&gt;_config.shoka.yml&lt;/code&gt;  。&lt;br /&gt;
+也就是说，所有主题的自定义配置均保存于  &lt;code&gt;&amp;lt;root&amp;gt;/_config.shoka.yml&lt;/code&gt;  文件。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9jb25maWcv&#34;&gt;主题的基础配置可以参考这里&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9kaXNwbGF5Lw==&#34;&gt;界面显示相关的配置参考这里&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;更新记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#更新记录&#34;&gt;#&lt;/a&gt; 更新记录&lt;/h1&gt;
+&lt;p&gt;标签含义：&lt;br /&gt;
+❗ 需要手动操作的更新信息&lt;br /&gt;
+⚠️ 需要注意的更新信息&lt;br /&gt;
+🔧 已修复的问题&lt;br /&gt;
+⌛ TODO&lt;/p&gt;
+&lt;h2 id=&#34;024-025&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#024-025&#34;&gt;#&lt;/a&gt; 0.2.4 👉 0.2.5&lt;/h2&gt;
+&lt;p&gt;💡 避免直接修改主题文件，添加各种自定义：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9kaXNwbGF5LyMlRTglODclQUElRTUlQUUlOUElRTQlQjklODklRTklQTElQjUlRTklOUQlQTIlRTklODUlOEQlRTglODklQjI=&#34;&gt;样式&lt;/span&gt;：包括配色、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9jb25maWcvI2ljb25mb250JUU1JTlCJUJFJUU2JUEwJTg3&#34;&gt;icon&lt;/span&gt;、其他自定义样式&lt;/li&gt;
+&lt;li&gt;图片：包括&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9kaXNwbGF5LyMlRTglODclQUElRTUlQUUlOUElRTQlQjklODklRTQlQjglQkIlRTklQTIlOTglRTUlOUIlQkUlRTclODklODc=&#34;&gt;主题图片&lt;/span&gt;、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9jb25maWcvIyVFOSU5QSU4RiVFNiU5QyVCQSVFNSU5QiVCRSVFNSVCQSU5Mw==&#34;&gt;随机图库&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🔧 修复一些 BUG&lt;/p&gt;
+&lt;h2 id=&#34;023-024&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#023-024&#34;&gt;#&lt;/a&gt; 0.2.3 👉 0.2.4&lt;/h2&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;评论功能更新&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MiniValine 魔改版更新至 beta10，修改过主题默认  &lt;code&gt;_config.yml&lt;/code&gt;  的同学，记得更新末尾的  &lt;code&gt;vendors&lt;/code&gt;  到最新哦&lt;/li&gt;
+&lt;li&gt;❗ 评论相关的配置有更新，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9jb25maWcvIyVFNiU5NiU4NyVFNyVBQiVBMCVFOCVBRiU4NCVFOCVBRSVCQQ==&#34;&gt;配置戳此&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;主要增加的 Tag 配置，现在可以各种自定义啦&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⚠️ 配置新增&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;夜间模式  &lt;code&gt;darkmode&lt;/code&gt;  ，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9jb25maWcvIyVFNSVBNCU5QyVFOSU5NyVCNCVFNiVBOCVBMSVFNSVCQyU4Rg==&#34;&gt;配置戳此&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;自动定位  &lt;code&gt;auto_scroll&lt;/code&gt;  ，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9jb25maWcvIyVFOCU4NyVBQSVFNSU4QSVBOCVFNSVBRSU5QSVFNCVCRCU4RA==&#34;&gt;配置戳此&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;图床 API 设置  &lt;code&gt;image_server&lt;/code&gt;  ，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9jb25maWcvIyVFOSU5QSU4RiVFNiU5QyVCQSVFNSU5QiVCRSVFNSVCQSU5Mw==&#34;&gt;配置戳此&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⚠️ 背景音乐功能增强，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9jb25maWcvIyVFOCU4MyU4QyVFNiU5OSVBRiVFOSU5RiVCMyVFNCVCOSU5MA==&#34;&gt;配置戳此&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;可以添加多个播放列表&lt;/li&gt;
+&lt;li&gt;加了一些控制按钮&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⚠️ 增加  &lt;code&gt;media&lt;/code&gt;  标签，在文章中插入音频和视频播放列表，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9zcGVjaWFsLyNtZWRpYSVFNSVBNCU5QSVFNSVBQSU5MiVFNCVCRCU5Mw==&#34;&gt;方法戳此&lt;/span&gt;&lt;br /&gt;
+⌛ 视频播放器有待增强（显示分段标签，字幕）&lt;/p&gt;
+&lt;p&gt;🔧 随机图库支持非渣浪图床的任意图片&lt;br /&gt;
+🔧 还有许多小 BUG&lt;/p&gt;
+&lt;h2 id=&#34;022-023&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#022-023&#34;&gt;#&lt;/a&gt; 0.2.2 👉 0.2.3&lt;/h2&gt;
+&lt;p&gt;❗ 增加主题文件外自定义语言包的功能，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9kaXNwbGF5LyMlRTglODclQUElRTUlQUUlOUElRTQlQjklODklRTglQUYlQUQlRTglQTglODAlRTUlOEMlODU=&#34;&gt;配置戳此&lt;/span&gt;&lt;br /&gt;
+🔧 提高低版本浏览器兼容性&lt;/p&gt;
+&lt;h2 id=&#34;021-022&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#021-022&#34;&gt;#&lt;/a&gt; 0.2.1 👉 0.2.2&lt;/h2&gt;
+&lt;p&gt;⚠️ 弃用  &lt;code&gt;mediumzoom&lt;/code&gt;  ，改成  &lt;code&gt;fancybox&lt;/code&gt;  ，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9kaXNwbGF5LyMlRTUlOUIlQkUlRTclODklODclRTUlQjElOTUlRTclQTQlQkElRTQlQjglOEUlRTclOUIlQjglRTUlODYlOEM=&#34;&gt;配置戳此&lt;/span&gt;&lt;br /&gt;
+💡 增加语言包：  &lt;code&gt;繁体中文&lt;/code&gt;  和  &lt;code&gt;日语&lt;/code&gt; &lt;br /&gt;
+💡 quiz 功能优化，根据语言显示题型标签&lt;br /&gt;
+🔧 修复评论功能中反复初始化 leancloud-storage&lt;br /&gt;
+🔧 修复  &lt;code&gt;audio: false&lt;/code&gt;  时不能隐藏播放按钮、停止播放&lt;/p&gt;
+&lt;h2 id=&#34;021&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#021&#34;&gt;#&lt;/a&gt; 👉 0.2.1&lt;/h2&gt;
+&lt;p&gt;⚠️ 配置文件添加  &lt;code&gt;loader&lt;/code&gt;  参数，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9jb25maWcvIyVFNSU4QSVBMCVFOCVCRCVCRCVFNSU4QSVBOCVFNyU5NCVCQg==&#34;&gt;配置戳此&lt;/span&gt;&lt;br /&gt;
+💡 二级 list 区别显示&lt;br /&gt;
+🔧 修复浏览位置定位 BUG&lt;br /&gt;
+🔧 修复 firework 动画延迟&lt;br /&gt;
+🔧 优化评论功能&lt;/p&gt;
+&lt;h2 id=&#34;019-02&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#019-02&#34;&gt;#&lt;/a&gt; 0.1.9 👉 0.2&lt;/h2&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;评论功能大改&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;弃用不开源的 Valine，改用 MiniValine，并且进行了魔改，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvTWluaVZhbGluZQ==&#34;&gt;项目戳此&lt;/span&gt;&lt;br /&gt;
+主要是大量压缩了代码，弃用一些花里胡哨的功能，又加了一些别的花里胡哨的功能。&lt;/li&gt;
+&lt;li&gt;为防止泄露用户邮箱、IP 等隐私信息，弃用 QQ 号获取昵称及头像。&lt;br /&gt;
+❗ 同时需要手动进行一些迁移，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2ltYWVnb28vVmFsaW5l&#34;&gt;具体步骤戳此&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;❗ 评论相关的配置亦有更新，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9jb25maWcvIyVFNiU5NiU4NyVFNyVBQiVBMCVFOCVBRiU4NCVFOCVBRSVCQQ==&#34;&gt;配置戳此&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⚠️ 增加单击页面烟花效果，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9jb25maWcvIyVFOSVBMSVCNSVFOSU5RCVBMiVFNyU4OSVCOSVFNiU5NSU4OA==&#34;&gt;配置戳此&lt;/span&gt;&lt;br /&gt;
+💡 弃用 Velocity，改用 anime.js，方便未来添加更多花里胡哨的功能严重拖慢页面滑行速度&lt;br /&gt;
+🔧 新增多枚 icon，包括豆瓣  &lt;code&gt;i-douban&lt;/code&gt;  等&lt;br /&gt;
+🔧 一些显示问题&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvdGFncy9IZXhvLw==&#34;&gt;Hexo&lt;/span&gt;  &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvdGFncy8lRTYlOTUlOTklRTclQTglOEIv&#34;&gt;教程&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;本文作者：&lt;/strong&gt; Ruri Shimotsuki __@__優萌初華&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;本文链接：&lt;/strong&gt; &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy8=&#34;&gt;https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
-        <category term="面向对象程序设计" />
-        <updated>2023-11-23T09:30:58.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://qiji5211.com/2023/11/23/da/%E5%A4%A7%E5%88%9B%E9%A1%B9%E7%9B%AE%E5%90%88%E9%9B%86/</id>
-        <title>大创项目合集</title>
-        <link rel="alternate" href="http://qiji5211.com/2023/11/23/da/%E5%A4%A7%E5%88%9B%E9%A1%B9%E7%9B%AE%E5%90%88%E9%9B%86/"/>
-        <content type="html">&lt;p&gt;【腾讯文档】2024 年度西电大学生创新创业训练计划命题清单&lt;br /&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLnFxLmNvbS9zaGVldC9EVldSVlJXRktVMEZ3WWxwUz90YWI9QkIwOEoy&#34;&gt; https://docs.qq.com/sheet/DVWRVRWFKU0FwYlpS?tab=BB08J2&lt;/span&gt;&lt;/p&gt;
-</content>
-        <category term="大创" />
+        <category term="慧试" />
         <updated>2023-11-23T09:30:58.000Z</updated>
     </entry>
     <entry>
@@ -284,23 +416,6 @@
         <updated>2023-11-23T09:30:58.000Z</updated>
     </entry>
     <entry>
-        <id>http://qiji5211.com/2023/11/23/kaoshi/%E8%AE%A1%E7%A7%91%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E5%BA%93%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/</id>
-        <title>计科数据库试题</title>
-        <link rel="alternate" href="http://qiji5211.com/2023/11/23/kaoshi/%E8%AE%A1%E7%A7%91%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E5%BA%93%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/"/>
-        <content type="html">&lt;p&gt;收集自 —— 【鸽子屋二号】&lt;/p&gt;
-&lt;p&gt;文件名：15：40 计科 - 2020 年 8 月数据库补考 - 王小兵 (2).pdf&lt;br /&gt;
- 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy8zamozZTM=&#34;&gt;https://easylink.cc/3jj3e3&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;文件名：扫描全能王 2021-12-06 14.37 (1).pdf（某一年的期末卷子）&lt;br /&gt;
-云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy95bTd0Yno=&#34;&gt;https://easylink.cc/ym7tbz&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;文件名：数据库试题.pdf&lt;br /&gt;
- 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9wYnZzNzE=&#34;&gt;https://easylink.cc/pbvs71&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;简要介绍：收录了计科数据库试题，以 PDF 形式上传，使用愉快～&lt;br /&gt;
- 衷心感谢每一次的慷慨分享 \！&lt;/p&gt;
-</content>
-        <category term="数据库" />
-        <updated>2023-11-23T09:30:58.000Z</updated>
-    </entry>
-    <entry>
         <id>http://qiji5211.com/2023/11/23/shuji/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%9B%B8%E5%85%B3%E4%B9%A6%E7%B1%8D/</id>
         <title>高等数学相关书籍</title>
         <link rel="alternate" href="http://qiji5211.com/2023/11/23/shuji/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%9B%B8%E5%85%B3%E4%B9%A6%E7%B1%8D/"/>
@@ -373,6 +488,215 @@
 &lt;p&gt;衷心感谢每一次的慷慨分享！&lt;/p&gt;
 </content>
         <category term="高等数学相关书籍" />
+        <updated>2023-11-23T09:30:58.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://qiji5211.com/2023/11/23/oop/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/</id>
+        <title>关于本站的搭建</title>
+        <link rel="alternate" href="http://qiji5211.com/2023/11/23/oop/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/"/>
+        <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
+&lt;p&gt;本博客是基于 node.js 中的 hexo 快速搭建的资源信息共享站，旨在帮助同学们快速有效地查找资料，免于信息差的焦虑和在各大群聊的奔波。评本站所有资料都可采用直链形式下载，因此可跨设备随想随看。&lt;/p&gt;
+&lt;p&gt;评论系统和搜索功能是用一些免费的企业服务对接完成的，后续会加上自己的后端，后续诸多功能会继续完善和更新。 目前部署在了 github 和 gitee 的服务器上，可以通过网址直接进行访问 ​ 所有文章均采用 Markdown 语法编写 md 文件，再由渲染器渲染成 html 文件，即可以说每一遍文章其实都是一个 html 文件。&lt;/p&gt;
+&lt;h2 id=&#34;hexo-的基本介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo-的基本介绍&#34;&gt;#&lt;/a&gt; hexo 的基本介绍&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;hexo&lt;/span&gt; 是一个快速、简洁且高效的博客框架，它支持几条简短的命令发布博客，因此是对于初学者比较友好的博客框架。&lt;/p&gt;
+&lt;p&gt;在 Gitee/GitHub 上有很多这样的框架，我们深入学习编程，就要拥有阅读文档并使用它们的能力，在这个过程中我们会接触很多配置，不必去深究其中的原理，重在应用就可以啦，就像会开车，并不一定需要知道如何造汽车。&lt;/p&gt;
+&lt;h2 id=&#34;hexo-的基本文件结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo-的基本文件结构&#34;&gt;#&lt;/a&gt; hexo 的基本文件结构&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;_config.yml 文件：站点配置文件，很多功能、插件需要修改该配置文件应用生效。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;node_modules 文件夹：包含依赖的模块。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;package.json 文件：依赖的模块列表。说明见：package.json:Specifics of npm’s package.json handling&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;package-lock.json 文件：依赖的模块安装记录。说明见：npm-package-locks:An explanation of npm lockfiles&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;public 文件夹：包含生成的网页静态文件。(可以直接部署在服务器上)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;scaffolds 文件夹：包含创建的文章、分类、标签界面的模板。博客的定制修改会对模板进行修改。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;source 文件夹：包含生成网页所需要的源文件，包括包含我们心血的 Markdown 文稿，这也是最重要的内容。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;themes 文件夹：其中 landscape 是默认的主题，其他文件夹是克隆下来时的主题 (本博客使用的主题是 shoka)。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;hexo-的优势&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo-的优势&#34;&gt;#&lt;/a&gt; hexo 的优势&lt;/h2&gt;
+&lt;p&gt;hexo 是静态博客生成器 (SSG), 这意味着它不需要服务端来进行渲染，只需要将文件发送给客户端即可&lt;br /&gt;
+因此，hexo 脱离了服务器的限制，可以在 github pages 等静态页面托管平台上部署 hexo 基于 NODEJS, 具有较强的扩展性，性能也相对较高&lt;/p&gt;
+&lt;h2 id=&#34;依赖的插件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#依赖的插件&#34;&gt;#&lt;/a&gt; 依赖的插件&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1yZW5kZXJlci1tdWx0aS1tYXJrZG93bi1pdA==&#34;&gt;hexo-renderer-multi-it&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;(md 文件渲染器，压缩 css/js/html)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1hdXRvcHJlZml4ZXI=&#34;&gt;hexo-autoprefixer&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;(给生成的 css 文件们添加浏览器前缀)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1hbGdvbGlhc2VhcmNo&#34;&gt;hexo-algoliasearch&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;(站内搜索功能)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1zeW1ib2xzLWNvdW50LXRpbWU=&#34;&gt;hexo-symbols-count-time&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;(文章或站点字数及阅读时间统计)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;评论系统和搜索功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#评论系统和搜索功能&#34;&gt;#&lt;/a&gt; 评论系统和搜索功能&lt;/h2&gt;
+&lt;p&gt;评论系统:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jb25zb2xlLmxlYW5jbG91ZC5jbi8=&#34;&gt;LeanCloud&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92YWxpbmUuanMub3JnL3F1aWNrc3RhcnQuaHRtbA==&#34;&gt;教程&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;搜索功能:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWxnb2xpYS5jb20v&#34;&gt;algolia&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;教程 (自行百度)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;本博客使用到的-api&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#本博客使用到的-api&#34;&gt;#&lt;/a&gt; 本博客使用到的 api&lt;/h2&gt;
+&lt;p&gt;随机图片: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hcGkucjEwMDg2LmNvbS9pbWctYXBpLnBocD90eXBlPSVFNSU4QSVBOCVFNiVCQyVBQiVFNyVCQiVCQyVFNSU5MCU4ODE=&#34;&gt;https://api.r10086.com/img-api.php?type = 动漫综合 1&lt;/span&gt;&lt;br /&gt;
+ 音乐: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hcGkuaW5qYWhvdy5jbi9tZXRpbmc=&#34;&gt;https://api.injahow.cn/meting&lt;/span&gt; (然后加上自己的随机歌单)&lt;/p&gt;
+&lt;h2 id=&#34;本博客的特色功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#本博客的特色功能&#34;&gt;#&lt;/a&gt; 本博客的特色功能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;好看&lt;/li&gt;
+&lt;li&gt;搜索功能&lt;/li&gt;
+&lt;li&gt;音乐系统&lt;/li&gt;
+&lt;li&gt;点击产生粒子效果&lt;/li&gt;
+&lt;li&gt;自动定位上次查看的文章位置&lt;/li&gt;
+&lt;li&gt;可以切换夜间主题&lt;/li&gt;
+&lt;li&gt;响应式&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="慧试" />
+        <updated>2023-11-23T09:30:58.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://qiji5211.com/2023/11/23/zhandian/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/</id>
+        <title>关于本站的搭建</title>
+        <link rel="alternate" href="http://qiji5211.com/2023/11/23/zhandian/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/"/>
+        <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
+&lt;p&gt;本博客是基于 node.js 中的 hexo 快速搭建的资源信息共享站，旨在帮助同学们快速有效地查找资料，免于信息差的焦虑和在各大群聊的奔波。评本站所有资料都可采用直链形式下载，因此可跨设备随想随看。&lt;/p&gt;
+&lt;p&gt;评论系统和搜索功能是用一些免费的企业服务对接完成的，后续会加上自己的后端，后续诸多功能会继续完善和更新。 目前部署在了 github 和 gitee 的服务器上，可以通过网址直接进行访问 ​ 所有文章均采用 Markdown 语法编写 md 文件，再由渲染器渲染成 html 文件，即可以说每一遍文章其实都是一个 html 文件。&lt;/p&gt;
+&lt;h2 id=&#34;hexo-的基本介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo-的基本介绍&#34;&gt;#&lt;/a&gt; hexo 的基本介绍&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;hexo&lt;/span&gt; 是一个快速、简洁且高效的博客框架，它支持几条简短的命令发布博客，因此是对于初学者比较友好的博客框架。&lt;/p&gt;
+&lt;p&gt;在 Gitee/GitHub 上有很多这样的框架，我们深入学习编程，就要拥有阅读文档并使用它们的能力，在这个过程中我们会接触很多配置，不必去深究其中的原理，重在应用就可以啦，就像会开车，并不一定需要知道如何造汽车。&lt;/p&gt;
+&lt;h2 id=&#34;hexo-的基本文件结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo-的基本文件结构&#34;&gt;#&lt;/a&gt; hexo 的基本文件结构&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;_config.yml 文件：站点配置文件，很多功能、插件需要修改该配置文件应用生效。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;node_modules 文件夹：包含依赖的模块。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;package.json 文件：依赖的模块列表。说明见：package.json:Specifics of npm’s package.json handling&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;package-lock.json 文件：依赖的模块安装记录。说明见：npm-package-locks:An explanation of npm lockfiles&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;public 文件夹：包含生成的网页静态文件。(可以直接部署在服务器上)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;scaffolds 文件夹：包含创建的文章、分类、标签界面的模板。博客的定制修改会对模板进行修改。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;source 文件夹：包含生成网页所需要的源文件，包括包含我们心血的 Markdown 文稿，这也是最重要的内容。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;themes 文件夹：其中 landscape 是默认的主题，其他文件夹是克隆下来时的主题 (本博客使用的主题是 shoka)。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;hexo-的优势&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo-的优势&#34;&gt;#&lt;/a&gt; hexo 的优势&lt;/h2&gt;
+&lt;p&gt;hexo 是静态博客生成器 (SSG), 这意味着它不需要服务端来进行渲染，只需要将文件发送给客户端即可&lt;br /&gt;
+因此，hexo 脱离了服务器的限制，可以在 github pages 等静态页面托管平台上部署 hexo 基于 NODEJS, 具有较强的扩展性，性能也相对较高&lt;/p&gt;
+&lt;h2 id=&#34;依赖的插件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#依赖的插件&#34;&gt;#&lt;/a&gt; 依赖的插件&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1yZW5kZXJlci1tdWx0aS1tYXJrZG93bi1pdA==&#34;&gt;hexo-renderer-multi-it&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;(md 文件渲染器，压缩 css/js/html)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1hdXRvcHJlZml4ZXI=&#34;&gt;hexo-autoprefixer&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;(给生成的 css 文件们添加浏览器前缀)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1hbGdvbGlhc2VhcmNo&#34;&gt;hexo-algoliasearch&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;(站内搜索功能)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1zeW1ib2xzLWNvdW50LXRpbWU=&#34;&gt;hexo-symbols-count-time&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;(文章或站点字数及阅读时间统计)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;评论系统和搜索功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#评论系统和搜索功能&#34;&gt;#&lt;/a&gt; 评论系统和搜索功能&lt;/h2&gt;
+&lt;p&gt;评论系统:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jb25zb2xlLmxlYW5jbG91ZC5jbi8=&#34;&gt;LeanCloud&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92YWxpbmUuanMub3JnL3F1aWNrc3RhcnQuaHRtbA==&#34;&gt;教程&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;搜索功能:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWxnb2xpYS5jb20v&#34;&gt;algolia&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;教程 (自行百度)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;本博客使用到的-api&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#本博客使用到的-api&#34;&gt;#&lt;/a&gt; 本博客使用到的 api&lt;/h2&gt;
+&lt;p&gt;随机图片: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hcGkucjEwMDg2LmNvbS9pbWctYXBpLnBocD90eXBlPSVFNSU4QSVBOCVFNiVCQyVBQiVFNyVCQiVCQyVFNSU5MCU4ODE=&#34;&gt;https://api.r10086.com/img-api.php?type = 动漫综合 1&lt;/span&gt;&lt;br /&gt;
+ 音乐: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hcGkuaW5qYWhvdy5jbi9tZXRpbmc=&#34;&gt;https://api.injahow.cn/meting&lt;/span&gt; (然后加上自己的随机歌单)&lt;/p&gt;
+&lt;h2 id=&#34;本博客的特色功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#本博客的特色功能&#34;&gt;#&lt;/a&gt; 本博客的特色功能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;好看&lt;/li&gt;
+&lt;li&gt;搜索功能&lt;/li&gt;
+&lt;li&gt;音乐系统&lt;/li&gt;
+&lt;li&gt;点击产生粒子效果&lt;/li&gt;
+&lt;li&gt;自动定位上次查看的文章位置&lt;/li&gt;
+&lt;li&gt;可以切换夜间主题&lt;/li&gt;
+&lt;li&gt;响应式&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="慧试" />
+        <updated>2023-11-23T09:30:58.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://qiji5211.com/2023/11/23/kaoshi/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/</id>
+        <title>面向对象程序设计考试题目</title>
+        <link rel="alternate" href="http://qiji5211.com/2023/11/23/kaoshi/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/"/>
+        <content type="html">&lt;p&gt;收集自 ——【鸽子屋二号】&lt;/p&gt;
+&lt;p&gt;文件名：《面向对象程序设计》习题答案 2008-c  部分.ppt&lt;br /&gt;
+ 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy84dGMxMWs=&#34;&gt;https://easylink.cc/8tc11k&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;文件名：《面向对象程序设计 C--》期末试卷及标准答案 (A).doc&lt;br /&gt;
+ 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy85MG03MWE=&#34;&gt;https://easylink.cc/90m71a&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;文件名：《面向对象程序设计 C--》期末试卷及标准答案集总解析.doc&lt;br /&gt;
+ 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9sOXQzZHc=&#34;&gt;https://easylink.cc/l9t3dw&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;文件名：c++.docx&lt;br /&gt;
+ 云链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYXN5bGluay5jYy9mYW5iZnk=&#34;&gt;https://easylink.cc/fanbfy&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;简要介绍：收录了面向对象程序设计部分题目，使用愉快～&lt;br /&gt;
+ 衷心感谢每一次的慷慨分享！&lt;/p&gt;
+</content>
+        <category term="面向对象程序设计" />
         <updated>2023-11-23T09:30:58.000Z</updated>
     </entry>
     <entry>
