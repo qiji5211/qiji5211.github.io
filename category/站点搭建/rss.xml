@@ -8,18 +8,113 @@
         <pubDate>Thu, 23 Nov 2023 17:30:58 +0800</pubDate>
         <lastBuildDate>Thu, 23 Nov 2023 17:30:58 +0800</lastBuildDate>
         <category>电路</category>
-        <category>C语言</category>
         <category>大创</category>
+        <category>C语言</category>
         <category>微处理器系统与应用</category>
         <category>微机原理</category>
-        <category>数据结构</category>
         <category>毛概</category>
+        <category>数据结构</category>
         <category>算法</category>
-        <category>数据库</category>
-        <category>面向对象程序设计</category>
+        <category>新生</category>
         <category>高等数学相关书籍</category>
         <category>慧试</category>
-        <category>新生</category>
+        <category>数据库</category>
+        <category>面向对象程序设计</category>
+        <item>
+            <guid isPermalink="true">http://qiji5211.com/2023/11/23/zhan/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/</guid>
+            <title>关于本站的搭建</title>
+            <link>http://qiji5211.com/2023/11/23/zhan/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/</link>
+            <category>慧试</category>
+            <pubDate>Thu, 23 Nov 2023 17:30:58 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
+&lt;p&gt;本博客是基于 node.js 中的 hexo 快速搭建的资源信息共享站，旨在帮助同学们快速有效地查找资料，免于信息差的焦虑和在各大群聊的奔波。评本站所有资料都可采用直链形式下载，因此可跨设备随想随看。&lt;/p&gt;
+&lt;p&gt;评论系统和搜索功能是用一些免费的企业服务对接完成的，后续会加上自己的后端，后续诸多功能会继续完善和更新。 目前部署在了 github 和 gitee 的服务器上，可以通过网址直接进行访问 ​ 所有文章均采用 Markdown 语法编写 md 文件，再由渲染器渲染成 html 文件，即可以说每一遍文章其实都是一个 html 文件。&lt;/p&gt;
+&lt;h2 id=&#34;hexo-的基本介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo-的基本介绍&#34;&gt;#&lt;/a&gt; hexo 的基本介绍&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;hexo&lt;/span&gt; 是一个快速、简洁且高效的博客框架，它支持几条简短的命令发布博客，因此是对于初学者比较友好的博客框架。&lt;/p&gt;
+&lt;p&gt;在 Gitee/GitHub 上有很多这样的框架，我们深入学习编程，就要拥有阅读文档并使用它们的能力，在这个过程中我们会接触很多配置，不必去深究其中的原理，重在应用就可以啦，就像会开车，并不一定需要知道如何造汽车。&lt;/p&gt;
+&lt;h2 id=&#34;hexo-的基本文件结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo-的基本文件结构&#34;&gt;#&lt;/a&gt; hexo 的基本文件结构&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;_config.yml 文件：站点配置文件，很多功能、插件需要修改该配置文件应用生效。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;node_modules 文件夹：包含依赖的模块。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;package.json 文件：依赖的模块列表。说明见：package.json:Specifics of npm’s package.json handling&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;package-lock.json 文件：依赖的模块安装记录。说明见：npm-package-locks:An explanation of npm lockfiles&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;public 文件夹：包含生成的网页静态文件。(可以直接部署在服务器上)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;scaffolds 文件夹：包含创建的文章、分类、标签界面的模板。博客的定制修改会对模板进行修改。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;source 文件夹：包含生成网页所需要的源文件，包括包含我们心血的 Markdown 文稿，这也是最重要的内容。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;themes 文件夹：其中 landscape 是默认的主题，其他文件夹是克隆下来时的主题 (本博客使用的主题是 shoka)。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;hexo-的优势&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo-的优势&#34;&gt;#&lt;/a&gt; hexo 的优势&lt;/h2&gt;
+&lt;p&gt;hexo 是静态博客生成器 (SSG), 这意味着它不需要服务端来进行渲染，只需要将文件发送给客户端即可&lt;br /&gt;
+因此，hexo 脱离了服务器的限制，可以在 github pages 等静态页面托管平台上部署 hexo 基于 NODEJS, 具有较强的扩展性，性能也相对较高&lt;/p&gt;
+&lt;h2 id=&#34;依赖的插件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#依赖的插件&#34;&gt;#&lt;/a&gt; 依赖的插件&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1yZW5kZXJlci1tdWx0aS1tYXJrZG93bi1pdA==&#34;&gt;hexo-renderer-multi-it&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;(md 文件渲染器，压缩 css/js/html)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1hdXRvcHJlZml4ZXI=&#34;&gt;hexo-autoprefixer&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;(给生成的 css 文件们添加浏览器前缀)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1hbGdvbGlhc2VhcmNo&#34;&gt;hexo-algoliasearch&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;(站内搜索功能)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1zeW1ib2xzLWNvdW50LXRpbWU=&#34;&gt;hexo-symbols-count-time&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;(文章或站点字数及阅读时间统计)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;评论系统和搜索功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#评论系统和搜索功能&#34;&gt;#&lt;/a&gt; 评论系统和搜索功能&lt;/h2&gt;
+&lt;p&gt;评论系统:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jb25zb2xlLmxlYW5jbG91ZC5jbi8=&#34;&gt;LeanCloud&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92YWxpbmUuanMub3JnL3F1aWNrc3RhcnQuaHRtbA==&#34;&gt;教程&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;搜索功能:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWxnb2xpYS5jb20v&#34;&gt;algolia&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;教程 (自行百度)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;本博客使用到的-api&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#本博客使用到的-api&#34;&gt;#&lt;/a&gt; 本博客使用到的 api&lt;/h2&gt;
+&lt;p&gt;随机图片: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hcGkucjEwMDg2LmNvbS9pbWctYXBpLnBocD90eXBlPSVFNSU4QSVBOCVFNiVCQyVBQiVFNyVCQiVCQyVFNSU5MCU4ODE=&#34;&gt;https://api.r10086.com/img-api.php?type = 动漫综合 1&lt;/span&gt;&lt;br /&gt;
+ 音乐: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hcGkuaW5qYWhvdy5jbi9tZXRpbmc=&#34;&gt;https://api.injahow.cn/meting&lt;/span&gt; (然后加上自己的随机歌单)&lt;/p&gt;
+&lt;h2 id=&#34;本博客的特色功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#本博客的特色功能&#34;&gt;#&lt;/a&gt; 本博客的特色功能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;好看&lt;/li&gt;
+&lt;li&gt;搜索功能&lt;/li&gt;
+&lt;li&gt;音乐系统&lt;/li&gt;
+&lt;li&gt;点击产生粒子效果&lt;/li&gt;
+&lt;li&gt;自动定位上次查看的文章位置&lt;/li&gt;
+&lt;li&gt;可以切换夜间主题&lt;/li&gt;
+&lt;li&gt;响应式&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://qiji5211.com/2023/11/23/zhan/Hexo%20%E4%B8%BB%E9%A2%98%20Shoka%20&amp;%20multi-markdown-it%20%E6%B8%B2%E6%9F%93%E5%99%A8%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/</guid>
             <title>Hexo 主题 Shoka &amp; multi-markdown-it 渲染器使用说明</title>
@@ -160,101 +255,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;本文作者：&lt;/strong&gt; Ruri Shimotsuki __@__優萌初華&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;本文链接：&lt;/strong&gt; &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy8=&#34;&gt;https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://qiji5211.com/2023/11/23/zhan/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/</guid>
-            <title>关于本站的搭建</title>
-            <link>http://qiji5211.com/2023/11/23/zhan/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/</link>
-            <category>慧试</category>
-            <pubDate>Thu, 23 Nov 2023 17:30:58 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
-&lt;p&gt;本博客是基于 node.js 中的 hexo 快速搭建的资源信息共享站，旨在帮助同学们快速有效地查找资料，免于信息差的焦虑和在各大群聊的奔波。评本站所有资料都可采用直链形式下载，因此可跨设备随想随看。&lt;/p&gt;
-&lt;p&gt;评论系统和搜索功能是用一些免费的企业服务对接完成的，后续会加上自己的后端，后续诸多功能会继续完善和更新。 目前部署在了 github 和 gitee 的服务器上，可以通过网址直接进行访问 ​ 所有文章均采用 Markdown 语法编写 md 文件，再由渲染器渲染成 html 文件，即可以说每一遍文章其实都是一个 html 文件。&lt;/p&gt;
-&lt;h2 id=&#34;hexo-的基本介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo-的基本介绍&#34;&gt;#&lt;/a&gt; hexo 的基本介绍&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;hexo&lt;/span&gt; 是一个快速、简洁且高效的博客框架，它支持几条简短的命令发布博客，因此是对于初学者比较友好的博客框架。&lt;/p&gt;
-&lt;p&gt;在 Gitee/GitHub 上有很多这样的框架，我们深入学习编程，就要拥有阅读文档并使用它们的能力，在这个过程中我们会接触很多配置，不必去深究其中的原理，重在应用就可以啦，就像会开车，并不一定需要知道如何造汽车。&lt;/p&gt;
-&lt;h2 id=&#34;hexo-的基本文件结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo-的基本文件结构&#34;&gt;#&lt;/a&gt; hexo 的基本文件结构&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;_config.yml 文件：站点配置文件，很多功能、插件需要修改该配置文件应用生效。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;node_modules 文件夹：包含依赖的模块。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;package.json 文件：依赖的模块列表。说明见：package.json:Specifics of npm’s package.json handling&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;package-lock.json 文件：依赖的模块安装记录。说明见：npm-package-locks:An explanation of npm lockfiles&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;public 文件夹：包含生成的网页静态文件。(可以直接部署在服务器上)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;scaffolds 文件夹：包含创建的文章、分类、标签界面的模板。博客的定制修改会对模板进行修改。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;source 文件夹：包含生成网页所需要的源文件，包括包含我们心血的 Markdown 文稿，这也是最重要的内容。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;themes 文件夹：其中 landscape 是默认的主题，其他文件夹是克隆下来时的主题 (本博客使用的主题是 shoka)。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;hexo-的优势&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo-的优势&#34;&gt;#&lt;/a&gt; hexo 的优势&lt;/h2&gt;
-&lt;p&gt;hexo 是静态博客生成器 (SSG), 这意味着它不需要服务端来进行渲染，只需要将文件发送给客户端即可&lt;br /&gt;
-因此，hexo 脱离了服务器的限制，可以在 github pages 等静态页面托管平台上部署 hexo 基于 NODEJS, 具有较强的扩展性，性能也相对较高&lt;/p&gt;
-&lt;h2 id=&#34;依赖的插件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#依赖的插件&#34;&gt;#&lt;/a&gt; 依赖的插件&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1yZW5kZXJlci1tdWx0aS1tYXJrZG93bi1pdA==&#34;&gt;hexo-renderer-multi-it&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;(md 文件渲染器，压缩 css/js/html)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1hdXRvcHJlZml4ZXI=&#34;&gt;hexo-autoprefixer&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;(给生成的 css 文件们添加浏览器前缀)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1hbGdvbGlhc2VhcmNo&#34;&gt;hexo-algoliasearch&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;(站内搜索功能)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1zeW1ib2xzLWNvdW50LXRpbWU=&#34;&gt;hexo-symbols-count-time&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;(文章或站点字数及阅读时间统计)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;评论系统和搜索功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#评论系统和搜索功能&#34;&gt;#&lt;/a&gt; 评论系统和搜索功能&lt;/h2&gt;
-&lt;p&gt;评论系统:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jb25zb2xlLmxlYW5jbG91ZC5jbi8=&#34;&gt;LeanCloud&lt;/span&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92YWxpbmUuanMub3JnL3F1aWNrc3RhcnQuaHRtbA==&#34;&gt;教程&lt;/span&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;搜索功能:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWxnb2xpYS5jb20v&#34;&gt;algolia&lt;/span&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;教程 (自行百度)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;本博客使用到的-api&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#本博客使用到的-api&#34;&gt;#&lt;/a&gt; 本博客使用到的 api&lt;/h2&gt;
-&lt;p&gt;随机图片: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hcGkucjEwMDg2LmNvbS9pbWctYXBpLnBocD90eXBlPSVFNSU4QSVBOCVFNiVCQyVBQiVFNyVCQiVCQyVFNSU5MCU4ODE=&#34;&gt;https://api.r10086.com/img-api.php?type = 动漫综合 1&lt;/span&gt;&lt;br /&gt;
- 音乐: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hcGkuaW5qYWhvdy5jbi9tZXRpbmc=&#34;&gt;https://api.injahow.cn/meting&lt;/span&gt; (然后加上自己的随机歌单)&lt;/p&gt;
-&lt;h2 id=&#34;本博客的特色功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#本博客的特色功能&#34;&gt;#&lt;/a&gt; 本博客的特色功能&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;好看&lt;/li&gt;
-&lt;li&gt;搜索功能&lt;/li&gt;
-&lt;li&gt;音乐系统&lt;/li&gt;
-&lt;li&gt;点击产生粒子效果&lt;/li&gt;
-&lt;li&gt;自动定位上次查看的文章位置&lt;/li&gt;
-&lt;li&gt;可以切换夜间主题&lt;/li&gt;
-&lt;li&gt;响应式&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
