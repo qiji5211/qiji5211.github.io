@@ -1,26 +1,19 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://qiji5211.com</id>
-    <title>XDU资源共享库 • Posts by &#34;电路&#34; tag</title>
+    <title>白骨生花 • Posts by &#34;电路&#34; tag</title>
     <link href="http://qiji5211.com" />
     <updated>2023-11-23T09:30:58.000Z</updated>
     <category term="大创" />
     <category term="电路" />
     <category term="高等数学相关书籍" />
     <category term="C语言" />
-    <category term="微处理器系统与应用" />
-    <category term="数据结构" />
-    <category term="微机原理" />
-    <category term="毛概" />
-    <category term="算法" />
-    <category term="数据库" />
-    <category term="面向对象程序设计" />
     <category term="慧试" />
     <category term="新生" />
     <entry>
-        <id>http://qiji5211.com/2023/11/23/bi/%E9%99%88%E8%8B%8F%E4%BD%95%E7%9A%84%E7%94%B5%E8%B7%AF%E7%AC%94%E8%AE%B0/</id>
+        <id>http://qiji5211.com/2023/11/23/qianduan/%E9%99%88%E8%8B%8F%E4%BD%95%E7%9A%84%E7%94%B5%E8%B7%AF%E7%AC%94%E8%AE%B0/</id>
         <title>陈苏何的电路笔记</title>
-        <link rel="alternate" href="http://qiji5211.com/2023/11/23/bi/%E9%99%88%E8%8B%8F%E4%BD%95%E7%9A%84%E7%94%B5%E8%B7%AF%E7%AC%94%E8%AE%B0/"/>
+        <link rel="alternate" href="http://qiji5211.com/2023/11/23/qianduan/%E9%99%88%E8%8B%8F%E4%BD%95%E7%9A%84%E7%94%B5%E8%B7%AF%E7%AC%94%E8%AE%B0/"/>
         <content type="html">&lt;p&gt;收集自陈苏何学长&lt;/p&gt;
 &lt;p&gt;通过百度网盘分享的文件：电路分析基础笔记....pdf 等 2 个文件:&lt;br /&gt;
 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMTYwZjI0bXgwN2IxaWY0dTZCclQ0UHc/cHdkPXRvbmc=&#34;&gt;https://pan.baidu.com/s/160f24mx07b1if4u6BrT4Pw?pwd=tong&lt;/span&gt; &lt;br /&gt;
