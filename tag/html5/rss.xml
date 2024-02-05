@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>白骨生花 • Posts by &#34;html5&#34; tag</title>
+        <link>http://qiji5211.com</link>
+        <description>同行者，拿起火把！</description>
+        <language>zh-CN</language>
+        <pubDate>Thu, 23 Nov 2023 17:30:58 +0800</pubDate>
+        <lastBuildDate>Thu, 23 Nov 2023 17:30:58 +0800</lastBuildDate>
+        <category>高等数学相关书籍</category>
+        <category>大创</category>
+        <category>新生</category>
+        <category>慧试</category>
+        <category>TS</category>
+        <category>C语言</category>
+        <category>JS</category>
+        <category>Vue3</category>
+        <category>HTML5</category>
+        <category>CSS3</category>
+        <item>
+            <guid isPermalink="true">http://qiji5211.com/2023/11/23/qianduan/HTML5+CSS3/HTML5/</guid>
+            <title>HTML5基础</title>
+            <link>http://qiji5211.com/2023/11/23/qianduan/HTML5+CSS3/HTML5/</link>
+            <category>HTML5</category>
+            <pubDate>Thu, 23 Nov 2023 17:30:58 +0800</pubDate>
+            <description><![CDATA[ &lt;div class=&#34;note warning&#34;&gt;
+&lt;p&gt;HTML 和 CSS 由于较为简单，本 Markdown 文档比较凌乱 (机翻尚硅谷笔记而来，具体以原版为准)，在此仅为方便本人回顾知识创建。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;一-html5简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-html5简介&#34;&gt;#&lt;/a&gt; 一、HTML5 简介&lt;/h1&gt;
+&lt;h2 id=&#34;1-什么是html&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-什么是html&#34;&gt;#&lt;/a&gt; 1. 什么是 HTML&lt;/h2&gt;
+&lt;h5 id=&#34;html5-是新一代的-html-标准-2014-年-10-月由万维网联盟w3c完成标准制定&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#html5-是新一代的-html-标准-2014-年-10-月由万维网联盟w3c完成标准制定&#34;&gt;#&lt;/a&gt; HTML5 是新一代的 HTML 标准， 2014 年 10 月由万维网联盟（W3C）完成标准制定。&lt;/h5&gt;
+&lt;h5 id=&#34;官网地址&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#官网地址&#34;&gt;#&lt;/a&gt; 官网地址：&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;W3C提供： https://www.w3.org/TR/html/index.html
+WHATWG提供： https://whatwg-cn.github.io/html/multipage
+HTML5在狭义上是指新一代的 HTML 标准，在广义上是指：整个前端。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;2-html5-优势&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-html5-优势&#34;&gt;#&lt;/a&gt; 2. HTML5 优势&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;1. 针对JavaScript，新增了很多可操作的接口。
+2. 新增了一些语义化标签、全局属性。
+3. 新增了多媒体标签，可以很好的替代flash。
+4. 更加侧重语义化，对于SEO更友好。
+5. 可移植性好，可以大量应用在移动设备上。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;3html5兼容性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3html5兼容性&#34;&gt;#&lt;/a&gt; 3.HTML5 兼容性&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;支持：Chrome、Safari、Opera、Firefox 等主流浏览器。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5 id=&#34;ie浏览器必须是-9-及以上版本才支持html5且ie9仅支持部分html5新特性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ie浏览器必须是-9-及以上版本才支持html5且ie9仅支持部分html5新特性&#34;&gt;#&lt;/a&gt; IE 浏览器必须是 9 及以上版本才支持 HTML5，且 IE9 仅支持部分 HTML5 新特性。&lt;/h5&gt;
+&lt;h1 id=&#34;二-新增语义化标签&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-新增语义化标签&#34;&gt;#&lt;/a&gt; 二、新增语义化标签&lt;/h1&gt;
+&lt;h2 id=&#34;1-新增布局标签&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-新增布局标签&#34;&gt;#&lt;/a&gt; 1. 新增布局标签&lt;/h2&gt;
+&lt;h5 id=&#34;标签名-语义-单双标&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#标签名-语义-单双标&#34;&gt;#&lt;/a&gt; 标签名 语义 单 / 双标&lt;/h5&gt;
+&lt;h5 id=&#34;签&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#签&#34;&gt;#&lt;/a&gt; 签&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;header 整个页面，或部分区域的头部 双
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;footer 整个页面，或部分区域的底部 双
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;nav 导航 双
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;article 文章、帖子、杂志、新闻、博客、评论等。 双
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;section 页面中的某段文字，或文章中的某段文字（里面文字通常里面会包含
+标题）。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5 id=&#34;双&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#双&#34;&gt;#&lt;/a&gt; 双&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;aside 侧边栏 双
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;main 文档的主要内容 (WHATWG没有语义，IE不支持)，几乎不用。 双
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;hgroup 包裹连续的标题，如文章主标题、副标题的组合 （W3C将其删除） 双
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;关于 article 和 section：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. artical里面可以有多个section。
+2. section强调的是分段或分块，如果你想将一块内容分成几段的时候，可使用section元
+素。
+3. article比section更强调独立性，一块内容如果比较独立、比较完整，应该使用
+article元素。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;2-新增状态标签&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-新增状态标签&#34;&gt;#&lt;/a&gt; 2. 新增状态标签&lt;/h3&gt;
+&lt;h4 id=&#34;21-meter-标签&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#21-meter-标签&#34;&gt;#&lt;/a&gt; 2.1 meter 标签&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;语义：定义已知范围内的标量测量。也被称为 gauge（尺度），双标签，例如：电量、磁盘用量
+等。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5 id=&#34;属性-值-描述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#属性-值-描述&#34;&gt;#&lt;/a&gt; 属性 值 描述&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;high 数值 规定高值
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;low 数值 规定低值
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;max 数值 规定最大值
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;min 数值 规定最小值
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;optimum 数值 规定最优值
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;value 数值 规定当前值
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5 id=&#34;常用属性如下&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#常用属性如下&#34;&gt;#&lt;/a&gt; 常用属性如下：&lt;/h5&gt;
+&lt;h5 id=&#34;标签名-语义-单双标签&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#标签名-语义-单双标签&#34;&gt;#&lt;/a&gt; 标签名 语义 单 / 双标签&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;datalist 用于搜索框的关键字提示 双
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;details 用于展示问题和答案，或对专有名词进行解释 双
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;summary 写在 details 的里面，用于指定问题或专有名词 双
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5 id=&#34;标签名-语义-单双标签-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#标签名-语义-单双标签-2&#34;&gt;#&lt;/a&gt; 标签名 语义 单 / 双标签&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;ruby 包裹需要注音的文字 双
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;rt 写注音，rt标签写在ruby的里面 双
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;22-progress-标签&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#22-progress-标签&#34;&gt;#&lt;/a&gt; 2.2 progress 标签&lt;/h4&gt;
+&lt;h5 id=&#34;语义显示某个任务完成的进度的指示器一般用于表示进度条双标签例如工作完成进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#语义显示某个任务完成的进度的指示器一般用于表示进度条双标签例如工作完成进度&#34;&gt;#&lt;/a&gt; 语义：显示某个任务完成的进度的指示器，一般用于表示进度条，双标签，例如：工作完成进度&lt;/h5&gt;
+&lt;h5 id=&#34;等&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#等&#34;&gt;#&lt;/a&gt; 等。&lt;/h5&gt;
+&lt;h5 id=&#34;属性-值-描述-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#属性-值-描述-2&#34;&gt;#&lt;/a&gt; 属性 值 描述&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;max 数值 规定目标值。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;value 数值 规定当前值。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5 id=&#34;常用属性如下-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#常用属性如下-2&#34;&gt;#&lt;/a&gt; 常用属性如下：&lt;/h5&gt;
+&lt;h3 id=&#34;3-新增列表标签&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-新增列表标签&#34;&gt;#&lt;/a&gt; 3. 新增列表标签&lt;/h3&gt;
+&lt;h3 id=&#34;4-新增文本标签&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-新增文本标签&#34;&gt;#&lt;/a&gt; 4. 新增文本标签&lt;/h3&gt;
+&lt;h4 id=&#34;41-文本注音&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#41-文本注音&#34;&gt;#&lt;/a&gt; 4.1 文本注音&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;input type=&amp;quot;text&amp;quot; list=&amp;quot;mydata&amp;quot;&amp;gt;
+&amp;lt;datalist id=&amp;quot;mydata&amp;quot;&amp;gt;
+&amp;lt;option value=&amp;quot;周冬雨&amp;quot;&amp;gt;周冬雨&amp;lt;/option&amp;gt;
+&amp;lt;option value=&amp;quot;周杰伦&amp;quot;&amp;gt;周杰伦&amp;lt;/option&amp;gt;
+&amp;lt;option value=&amp;quot;温兆伦&amp;quot;&amp;gt;温兆伦&amp;lt;/option&amp;gt;
+&amp;lt;option value=&amp;quot;马冬梅&amp;quot;&amp;gt;马冬梅&amp;lt;/option&amp;gt;
+&amp;lt;/datalist&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;details&amp;gt;
+&amp;lt;summary&amp;gt;如何走上人生巅峰？&amp;lt;/summary&amp;gt;
+&amp;lt;p&amp;gt;一步一步走呗&amp;lt;/p&amp;gt;
+&amp;lt;/details&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;ruby&amp;gt;
+&amp;lt;span&amp;gt;魑魅魍魉&amp;lt;/span&amp;gt;
+&amp;lt;rt&amp;gt;chī mèi wǎng liǎng &amp;lt;/rt&amp;gt;
+&amp;lt;/ruby&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5 id=&#34;标签名-语义-单双标签-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#标签名-语义-单双标签-3&#34;&gt;#&lt;/a&gt; 标签名 语义 单 / 双标签&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;mark 标记 双
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5 id=&#34;属性名-功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#属性名-功能&#34;&gt;#&lt;/a&gt; 属性名 功能&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;placeholder 提示文字（注意：不是默认值，value是默认值），适用于 文字输入类 的表
+单控件。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;required 表示该输入项必填， 适用于 除按钮外 其他表单控件。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;autofocus 自动获取焦点，适用于所有表单控件。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;autocomplete
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;自动完成，可以设置为on或off，适用于 文字输入类 的表单控件。
+注意：密码输入框、多行输入框不可用。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;pattern
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5 id=&#34;填写正则表达式适用于文本输入类表单控件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#填写正则表达式适用于文本输入类表单控件&#34;&gt;#&lt;/a&gt; 填写正则表达式，适用于文本输入类表单控件。&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;注意：多行输入不可用，且空的输入框不会验证，往往与 required配合。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;4-2-文本标记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-2-文本标记&#34;&gt;#&lt;/a&gt; 4. 2 文本标记&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;注意： W3C 建议 mark 用于标记搜索结果中的关键字。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;三-新增表单功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#三-新增表单功能&#34;&gt;#&lt;/a&gt; 三、新增表单功能&lt;/h1&gt;
+&lt;h2 id=&#34;1-表单控件新增属性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-表单控件新增属性&#34;&gt;#&lt;/a&gt; 1. 表单控件新增属性&lt;/h2&gt;
+&lt;h2 id=&#34;2-input-新增属性值&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-input-新增属性值&#34;&gt;#&lt;/a&gt; 2. input 新增属性值&lt;/h2&gt;
+&lt;h5 id=&#34;属性名-功能-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#属性名-功能-2&#34;&gt;#&lt;/a&gt; 属性名 功能&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;email 邮箱 类型的输入框，表单提交时会验证格式，输入为空则不验证格式。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;url url类型的输入框，表单提交时会验证格式，输入为空则不验证格式。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;number 数字 类型的输入框，表单提交时会验证格式，输入为空则不验证格式。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;search 搜索 类型的输入框，表单提交时不会验证格式。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;tel 电话 类型的输入框，表单提交时不会验证格式，在移动端使用时，会唤起数
+字键盘。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;range 范围 选择框，默认值为 50 ，表单提交时不会验证格式。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;color 颜色 选择框，默认值为黑色，表单提交时不会验证格式。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;date 日期 选择框，默认值为空，表单提交时不会验证格式。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;month 月份 选择框，默认值为空，表单提交时不会验证格式。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;week 周 选择框，默认值为空，表单提交时不会验证格式。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;time 时间 选择框，默认值为空，表单提交时不会验证格式。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;datetime-local 日期+时间 选择框，默认值为空，表单提交时不会验证格式。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5 id=&#34;属性名-功能-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#属性名-功能-3&#34;&gt;#&lt;/a&gt; 属性名 功能&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;novalidate 如果给form标签设置了该属性，表单提交的时候不再进行验证。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;3-form-标签新增属性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-form-标签新增属性&#34;&gt;#&lt;/a&gt; 3. form 标签新增属性&lt;/h2&gt;
+&lt;h1 id=&#34;四-新增多媒体标签&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#四-新增多媒体标签&#34;&gt;#&lt;/a&gt; 四、新增多媒体标签&lt;/h1&gt;
+&lt;h2 id=&#34;1-视频标签&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-视频标签&#34;&gt;#&lt;/a&gt; 1. 视频标签&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;video&amp;gt;标签用来定义视频，它是双标签。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5 id=&#34;属性-值-描述-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#属性-值-描述-3&#34;&gt;#&lt;/a&gt; 属性 值 描述&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;src URL地址 视频地址
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;width 像素值 设置视频播放器的宽度
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;height 像素值 设置视频播放器的高度
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;controls - 向用户显示视频控件（比如播放/暂停按钮）
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;muted - 视频静音
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;autoplay - 视频自动播放
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;loop - 循环播放
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;poster URL地址 视频封面
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;preload auto/metadata/none
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;视频预加载，如果使用autoplay，则忽略该属
+性。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5 id=&#34;属性-值-描述-4&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#属性-值-描述-4&#34;&gt;#&lt;/a&gt; 属性 值 描述&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;src URL地址 音频地址
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;controls - 向用户显示音频控件（比如播放/暂停按钮）
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;autoplay - 音频自动播放
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;muted - 音频静音
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;loop - 循环播放
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;preload auto/metadata/none
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;音频预加载，如果使用autoplay，则忽略该属
+性。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;none: 不预加载视频。
+metadata: 仅预先获取视频的元数据（例如长
+度）。
+auto: 可以下载整个视频文件，即使用户不希
+望使用它。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;2-音频标签&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-音频标签&#34;&gt;#&lt;/a&gt; 2. 音频标签&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;audio&amp;gt;标签用来定义音频，它是双标签。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;none: 不预加载音频。
+metadata: 仅预先获取音频的元数据（例如长
+度）。
+auto: 可以下载整个音频文件，即使用户不希
+望使用它。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5 id=&#34;属性名-功能-4&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#属性名-功能-4&#34;&gt;#&lt;/a&gt; 属性名 功能&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;contenteditable
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5 id=&#34;表示元素是否可被用户编辑可选值如下&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#表示元素是否可被用户编辑可选值如下&#34;&gt;#&lt;/a&gt; 表示元素是否可被用户编辑，可选值如下：&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;true：可编辑
+false：不可编辑
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;draggable
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5 id=&#34;表示元素可以被拖动可选值如下&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#表示元素可以被拖动可选值如下&#34;&gt;#&lt;/a&gt; 表示元素可以被拖动，可选值如下：&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;true：可拖动
+false：不可拖动
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;hidden 隐藏元素
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;spellcheck
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5 id=&#34;规定是否对元素进行拼写和语法检查可选值如下&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#规定是否对元素进行拼写和语法检查可选值如下&#34;&gt;#&lt;/a&gt; 规定是否对元素进行拼写和语法检查，可选值如下：&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;true：检查
+false：不检查
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;contextmenu 规定元素的上下文菜单，在用户鼠标右键点击元素时显示。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;data-* 用于存储页面的私有定制数据。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;五-新增全局属性了解&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#五-新增全局属性了解&#34;&gt;#&lt;/a&gt; 五、新增全局属性（了解）&lt;/h1&gt;
+&lt;h1 id=&#34;六-html-5-兼容性处理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#六-html-5-兼容性处理&#34;&gt;#&lt;/a&gt; 六、HTML 5 兼容性处理&lt;/h1&gt;
+&lt;h5 id=&#34;添加元信息让浏览器处于最优渲染模式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#添加元信息让浏览器处于最优渲染模式&#34;&gt;#&lt;/a&gt; 添加元信息，让浏览器处于最优渲染模式。&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;使用html5shiv让低版本浏览器认识H5的语义化标签。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5 id=&#34;扩展&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#扩展&#34;&gt;#&lt;/a&gt; 扩展&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;lt 小于
+lte 小于等于
+gt 大于
+gte 大于等于
+! 逻辑非
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5 id=&#34;示例&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#示例&#34;&gt;#&lt;/a&gt; 示例：&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;!--设置IE总是使用最新的文档模式进行渲染--&amp;gt;
+&amp;lt;meta http-equiv=&amp;quot;X-UA-Compatible&amp;quot; content=&amp;quot;IE=Edge&amp;quot;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;!--优先使用 webkit ( Chromium ) 内核进行渲染, 针对 360 等壳浏览器--&amp;gt;
+&amp;lt;meta name=&amp;quot;renderer&amp;quot; content=&amp;quot;webkit&amp;quot;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;!--[if lt ie 9]&amp;gt;
+&amp;lt;script src=&amp;quot;../sources/js/html5shiv.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+&amp;lt;![endif]--&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&amp;lt;!--[if IE 8]&amp;gt; 仅 IE8 可见 &amp;lt;![endif]--&amp;gt;&lt;br /&gt;
+&amp;lt;!--[if gt IE 8]&amp;gt; 仅 IE8 以上可见 &amp;lt;![endif]—&amp;gt;&lt;br /&gt;
+&amp;lt;!--[if lt IE 8]&amp;gt; 仅 IE8 以下可见 &amp;lt;![endif]—&amp;gt;&lt;br /&gt;
+&amp;lt;!--[if gte IE 8]&amp;gt;IE8 及以上可见 &amp;lt;![endif]—&amp;gt;&lt;br /&gt;
+&amp;lt;!--[if lte IE 8]&amp;gt;IE8 及以下可见 &amp;lt;![endif]—&amp;gt;&lt;br /&gt;
+&amp;lt;!--[if !IE 8]&amp;gt; 非 IE8 的 IE 可见 &amp;lt;![endif]--&amp;gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
