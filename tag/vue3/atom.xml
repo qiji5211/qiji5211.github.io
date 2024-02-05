@@ -10,10 +10,11 @@
     <category term="慧试" />
     <category term="新生" />
     <category term="Vue3" />
+    <category term="JS" />
     <entry>
-        <id>http://qiji5211.com/2023/11/23/qianduan/Vue3%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B/</id>
+        <id>http://qiji5211.com/2023/11/23/qianduan/VUE/Vue3%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B/</id>
         <title>Vue3快速上手</title>
-        <link rel="alternate" href="http://qiji5211.com/2023/11/23/qianduan/Vue3%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B/"/>
+        <link rel="alternate" href="http://qiji5211.com/2023/11/23/qianduan/VUE/Vue3%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B/"/>
         <content type="html">&lt;h1 id=&#34;1-vue3简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-vue3简介&#34;&gt;#&lt;/a&gt; 1. Vue3 简介&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
