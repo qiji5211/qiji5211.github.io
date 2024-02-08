@@ -7,7 +7,6 @@
         <language>zh-CN</language>
         <pubDate>Thu, 23 Nov 2023 17:30:58 +0800</pubDate>
         <lastBuildDate>Thu, 23 Nov 2023 17:30:58 +0800</lastBuildDate>
-        <category>高等数学相关书籍</category>
         <category>大创</category>
         <category>新生</category>
         <category>慧试</category>
@@ -17,6 +16,7 @@
         <category>Vue3</category>
         <category>HTML5</category>
         <category>CSS3</category>
+        <category>pytorch</category>
         <item>
             <guid isPermalink="true">http://qiji5211.com/2023/11/23/qianduan/JS/mo/%E6%A8%A1%E5%9D%97%E5%8C%96_%E7%AC%94%E8%AE%B0/</guid>
             <title>JS模块化（简版）</title>

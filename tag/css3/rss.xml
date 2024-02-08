@@ -7,7 +7,6 @@
         <language>zh-CN</language>
         <pubDate>Thu, 23 Nov 2023 17:30:58 +0800</pubDate>
         <lastBuildDate>Thu, 23 Nov 2023 17:30:58 +0800</lastBuildDate>
-        <category>高等数学相关书籍</category>
         <category>大创</category>
         <category>新生</category>
         <category>慧试</category>
@@ -17,6 +16,7 @@
         <category>Vue3</category>
         <category>HTML5</category>
         <category>CSS3</category>
+        <category>pytorch</category>
         <item>
             <guid isPermalink="true">http://qiji5211.com/2023/11/23/qianduan/HTML5+CSS3/CSS3/</guid>
             <title>CSS3基础</title>

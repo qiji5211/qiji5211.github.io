@@ -7,7 +7,6 @@
         <language>zh-CN</language>
         <pubDate>Thu, 23 Nov 2023 17:30:58 +0800</pubDate>
         <lastBuildDate>Thu, 23 Nov 2023 17:30:58 +0800</lastBuildDate>
-        <category>高等数学相关书籍</category>
         <category>大创</category>
         <category>新生</category>
         <category>慧试</category>
@@ -17,6 +16,7 @@
         <category>Vue3</category>
         <category>HTML5</category>
         <category>CSS3</category>
+        <category>pytorch</category>
         <item>
             <guid isPermalink="true">http://qiji5211.com/2023/11/23/zhan/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/</guid>
             <title>关于本站的搭建</title>
