@@ -149,15 +149,15 @@ cpu 的直接 &lt;code&gt;conda install tensorflow&lt;/code&gt;  即可，不要
 &lt;h3 id=&#34;cbowcontinuous-bag-of-words模式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cbowcontinuous-bag-of-words模式&#34;&gt;#&lt;/a&gt; CBOW (Continuous bag of words) 模式&lt;/h3&gt;
 &lt;p&gt;给定一段用于训练的文本语料，再选定某段长度（窗口）作为研究对象，使用上下文词汇预测&lt;br /&gt;
 目标词汇。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/image/1.png&#34; alt=&#34;tu&#34; title=&#34;CBOW模式&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/jike/image/1.png&#34; alt=&#34;tu&#34; title=&#34;CBOW模式&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;图中窗口大小为 9，使用前后 4 个词汇对目标词汇进行预测。&lt;/p&gt;
 &lt;h4 id=&#34;word2vec过程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#word2vec过程&#34;&gt;#&lt;/a&gt; Word2vec 过程&lt;/h4&gt;
 &lt;p&gt;假设我们给定的训练语料只有一句话： &lt;code&gt;Hope can set you free&lt;/code&gt;  (愿你自由成长)，窗口大小为&lt;br /&gt;
  3, 因此模型的第一个训练样本来自 &lt;code&gt;Hope can set&lt;/code&gt; , 因为是 CBOW 模式，所以将使用 &lt;code&gt;Hope&lt;/code&gt;  和&lt;br /&gt;
  &lt;code&gt;set&lt;/code&gt;  作为输入， &lt;code&gt;can&lt;/code&gt;  作为输出，在模型训练时， &lt;code&gt;Hope&lt;/code&gt; , &lt;code&gt;can&lt;/code&gt; , &lt;code&gt;set&lt;/code&gt;  等词汇都使用它们的 one-hot 编码。如图所示：每个 one-hot 编码的单词与各自的变换矩阵 (即参数矩阵 3x5, 这里的 3 是指最后得到的词向量维度) 相乘之后再相加，得到上下文表示矩阵 (3x1)。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/image/2.png&#34; alt=&#34;tu&#34; title=&#34;CBOW模式&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/jike/image/2.png&#34; alt=&#34;tu&#34; title=&#34;CBOW模式&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;接着，将上下文表示矩阵与变换矩阵（参数矩阵 5x3, 所有的变换矩阵共享参数）相乘，得到 5x1 的结果矩阵，它将与我们真正的目标矩阵即 can 的 one-hot 编码矩阵 (5x1) 进行损失的计算，然后更新网络参数完成一次模型迭代。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/image/3.png&#34; alt=&#34;tu&#34; title=&#34;CBOW模式&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/jike/image/3.png&#34; alt=&#34;tu&#34; title=&#34;CBOW模式&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="NER" />
         <updated>2024-02-07T09:30:58.000Z</updated>
