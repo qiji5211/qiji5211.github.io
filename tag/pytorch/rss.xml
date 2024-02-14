@@ -8,15 +8,14 @@
         <pubDate>Wed, 07 Feb 2024 17:30:58 +0800</pubDate>
         <lastBuildDate>Wed, 07 Feb 2024 17:30:58 +0800</lastBuildDate>
         <category>大创</category>
-        <category>新生</category>
         <category>慧试</category>
         <category>TS</category>
-        <category>C语言</category>
         <category>JS</category>
         <category>Vue3</category>
         <category>HTML5</category>
         <category>CSS3</category>
         <category>pytorch</category>
+        <category>NER</category>
         <item>
             <guid isPermalink="true">http://qiji5211.com/2024/02/07/NER/pytorch%E5%AE%89%E8%A3%85%E7%8E%AF%E5%A2%83%E9%97%AE%E9%A2%98/</guid>
             <title>pytorch安装环境问题</title>
